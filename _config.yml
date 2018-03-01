@@ -1,6 +1,6 @@
 # Site settings
 title: 否极泰来 # 你的博客名字，可以定义修订
-header-img: "img/pjtl.jpg"
+header-img: "img/Colorful embroidery.jpg"
 tagline: "cn"  
 description: "Your internal mediocrity is the moment when you lost the faith of being excellent."  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "董小染" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/Colorful embroidery.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
