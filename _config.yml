@@ -4,7 +4,7 @@ header-img: "img/Colorful embroidery.jpg"
 tagline: "cn"  
 description: "Your internal mediocrity is the moment when you lost the faith of being excellent."  # 一句话描述你的博客
 baseurl: ""
-url: "http://matcha.website"  # 此处填写你的博客地址 
+url: ""  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
