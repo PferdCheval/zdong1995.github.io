@@ -1,14 +1,14 @@
 # Site settings
 title: 否极泰来 # 你的博客名字，可以定义修订
 header-img: "img/Colorful embroidery.jpg"
-tagline: "献给宝儿姐100+"  
-description: "献给宝儿姐100+"  # 一句话描述你的博客
+tagline: "cn"  
+description: "Your internal mediocrity is the moment when you lost the faith of being excellent."  # 一句话描述你的博客
 baseurl: ""
 url: "http://matcha.website"  # 此处填写你的博客地址 
 
   
 # About/contact
-owner: 
+owner: "献给宝儿姐100+"
 name: "董小染" # 填写作者信息：名字
 email: zdong1995@outlook.com # 填写作者信息：邮箱
 bio: "爱折腾的文艺理工男" # 填写作者信息：博客描述
