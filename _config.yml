@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "董小染" # 你的名字
-      header-img: "img/Colorful embroidery.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/9c16fdfaaf51f3de233a76dc94eef01f3b2979fa.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
