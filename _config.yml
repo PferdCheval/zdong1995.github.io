@@ -18,11 +18,11 @@ gavatar: img/icon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/icon.png # 浏览器地址栏小图标，可自定义更改
  
 douban_username:  # 你的豆瓣id
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+twitter_username: zdong
+github_username: zdong1995
+facebook_username: zdong1995
+weibo_username: Andy_董小姐
+zhihu_username: 董小姐
 
 # Build settings  
 # use Github Flavored Markdown !important  
