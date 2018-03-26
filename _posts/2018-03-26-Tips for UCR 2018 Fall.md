@@ -325,7 +325,7 @@ Walmart有公车可到(16路)，注意公车weekday和周末的schedule是不一
 
 ### 4.4 Mall/Outlet
 &emsp;&emsp;Mall和Outlet的区别主要在于价格和款式，一般mall都是当季的新款，样了新，尺寸足，价格小贵，但其实也经常打折，O ut let一般都是过款，尺寸不足，多数货品是outlet专供货，这样价格就很便宜，尤其是一些名牌，就比较划算。笔者整理了下文提到的Mall和一些较远的Store如下图所示。
-![UCR Mall Map](https://ws3.sinaimg.cn/large/006tNc79ly1fpqb1javbij31kw13pnpd.jpg "UCR Mall Map")
+![UCR Mall Map](https://ws3.sinaimg.cn/large/006tNc79ly1fpqbuvv84qj31kw13p7wi.jpg "UCR Mall Map")
 #### 4.4.1 Mall
 - Moreno Valley Mall  
 离学校最近的是Moreno Valley Mall，这个Mall感觉比较小，人也不是很多，比较冷清，但一些基本的牌了也是有的，有Macy和JCPenny，一般化妆品有Promotion的时候，可以去这个最近的Macy。一般都是开车去5.2 miles，从学校开车10分钟吧。此外，可以在学校的ParkingLot 2附近坐16路公共汽车，到Moreno Valley Mall下。
