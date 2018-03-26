@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UC Riverside 2018 Fall新生手册
+title: Tips for UCR 2018 Fall
 date: 2018-03-6
 categories: blog
 tags: [笔记, UCR]
