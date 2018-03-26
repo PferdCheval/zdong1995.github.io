@@ -9,7 +9,7 @@ description: 笔记整理
 # UC Riverside 2018 Fall新生手册  
 
 > 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。  
-> by 董小染 2018.3.26  
+> 
   
 
 ## 第一章 Riverside概述
@@ -32,7 +32,7 @@ description: 笔记整理
 &emsp;&emsp;手机因为没有SSN(又称social)，需要交500的押金，一年后可以拿回，或者在有了SSN后向手机公司提供你的SSN。不过要是你运气够好，有师兄师姐肯让你加他／她的family plan的话，你可以不用交这个押金。但是由于SSN和个人的信用记录紧紧联系在一起，并不是所有人都愿意别人用自己的SSN的，再请别人帮忙前一定要体谅到对方的难处，多替别人着想。  
 &emsp;&emsp;每个学期刚开始时，还需要交一笔杂费，目前的数额是US $199.18，如果你的老板够nice的话，老板会替你把这个钱交好。  
 &emsp;&emsp;另外开电的时候也需要交大概200块的押金。刚来要买些家具自行车的也要稍微花一点钱，虽然是二手的，但是杂七杂八加一起保守估计应该不超过200。  
-&emsp;&emsp;行李清单Checklist（附录中收录的是论坛中赵博同学的版本，给大家一个基本的参考）
+&emsp;&emsp;行李清单Checklist（附录中收录的是论坛中赵博同学的版本，给大家一个基本的参考)
 - 身份证件
 	- 护照、I-20 / DS-2019 或相应材料 (**随身携带**)
 	- 毕业证书、录取信 (**随身携带**)
@@ -130,26 +130,27 @@ description: 笔记整理
       国航从北京到美国的飞机上会在一上飞机提供一顿snack，快到时提供一顿早餐。对于十几个小时的飞机来说可能有点儿不够，尤其到了机场后还有很长时间才能到住处安顿下来，建议大家适量的带些能吃饱肚了的零食，不过要注意如果吃不了的话要留在飞机上。绝对不能把吃的，尤其是肉类带入美国，第一次进美国的话还是不要冒不必要的风险，耽误时间不说还影响心情。长途飞机上比较干燥，尽量多喝点儿水。可以带少量保湿面霜或面膜敷脸，注意单件体积不要超过100ml。
       旅行途中如果有任何不清楚的，一定要问乘务人员。
 - 需要填写的表格：出入境记录卡（I-94）和报关单（Form 6059B)  
-&emsp;&emsp;在飞机即将抵达美国时，空乘人员会发给大家两张表，一张白色的是I-94（这张非常重要，会订在护照上直至下次出境时被收回），另外一张蓝色的是报关单，一个家庭只用填一份，出关时会有工作人员收走。  
-&emsp;&emsp;国航会在发表时放如何填写的短片，I-94上主要是填写一些基本信息，建议大家上飞机前准备一张纸，上面提前写好来美国的详细地址，并带好一支笔在随身行李里。如果地址写不下的话尽量用简写，如Road可写为Rd, Street可写为St。   
-&emsp;&emsp;要注意的是I-94的格式很奇怪，提示填写的文字写在格子下方，生日日期的格式是日／月／年（dd/mm/yy）。头两位要填日期，然后才是月份。   
-&emsp;&emsp;报关单上除了个人信息外，还会问是否带有违禁品，最好都填无，在入关时有垃圾筒，违禁品都扔里面就好了，否则填了也是拿出来被扔了，还有可能要走X光并开箱检查，非常耽误时间。
+在飞机即将抵达美国时，空乘人员会发给大家两张表，一张白色的是I-94（这张非常重要，会订在护照上直至下次出境时被收回），另外一张蓝色的是报关单，一个家庭只用填一份，出关时会有工作人员收走。  
+国航会在发表时放如何填写的短片，I-94上主要是填写一些基本信息，建议大家上飞机前准备一张纸，上面提前写好来美国的详细地址，并带好一支笔在随身行李里。如果地址写不下的话尽量用简写，如Road可写为Rd, Street可写为St。   
+要注意的是I-94的格式很奇怪，提示填写的文字写在格子下方，生日日期的格式是日／月／年（dd/mm/yy）。头两位要填日期，然后才是月份。   
+报关单上除了个人信息外，还会问是否带有违禁品，最好都填无，在入关时有垃圾筒，违禁品都扔里面就好了，否则填了也是拿出来被扔了，还有可能要走X光并开箱检查，非常耽误时间。
 - 入关   
-&emsp;&emsp;当飞机到达美国后，如果所乘坐的是需要转乘的飞机，那么你需要在此机场办理入关手续。到了机场的航站楼后，跟着人群走到入关的地方（路上有厕所，最好去一下，入关以及从机场到UCR附近至少还要三个小时），人多的一侧是非美国公民的队（LAX在右侧），排队等入关。准备好护照，I-20，填好的I-94表。轮到你时，会先用摄像头照相，按指纹，然后海关人员会问你一些简单的问题，例如来美国干啥来了之类的。等他们在你的护照，I-20上盖好章后，恭喜你，你就正式踏入美国的领土了。但是还是要注意检查东西是否齐全，万一海关的人少给了你什么，最后要跑来跑去拿齐东西的还是你自己。   
-&emsp;&emsp;Claim了行李之后就是行李检查了，先在出口处有工作人员决定你是否需要X光检查，如果被抽中行李检查，会另有工作人员来进行检查，这时如果你有违禁品，一定要说实话，否则罚款不说还会上黑名单，以后次次都要查。   
-&emsp;&emsp;从2015年7月1日06:00开始，所有国际航班均在 Tom Bradley International Terminal (Terminal B) (汤姆·布拉得利国际航站楼) (B航站楼) 出站，包括以前在Terminal 2 (2号航站楼) 的Air China(中国国际航空) 。
+当飞机到达美国后，如果所乘坐的是需要转乘的飞机，那么你需要在此机场办理入关手续。到了机场的航站楼后，跟着人群走到入关的地方（路上有厕所，最好去一下，入关以及从机场到UCR附近至少还要三个小时），人多的一侧是非美国公民的队（LAX在右侧），排队等入关。准备好护照，I-20，填好的I-94表。轮到你时，会先用摄像头照相，按指纹，然后海关人员会问你一些简单的问题，例如来美国干啥来了之类的。等他们在你的护照，I-20上盖好章后，恭喜你，你就正式踏入美国的领土了。但是还是要注意检查东西是否齐全，万一海关的人少给了你什么，最后要跑来跑去拿齐东西的还是你自己。   
+Claim了行李之后就是行李检查了，先在出口处有工作人员决定你是否需要X光检查，如果被抽中行李检查，会另有工作人员来进行检查，这时如果你有违禁品，一定要说实话，否则罚款不说还会上黑名单，以后次次都要查。   
+从2015年7月1日06:00开始，所有国际航班均在 Tom Bradley International Terminal (Terminal B) (汤姆·布拉得利国际航站楼) (B航站楼) 出站，包括以前在Terminal 2 (2号航站楼) 的Air China(中国国际航空) 。
 - UCR附近机场   
-&emsp;&emsp;由于是第一次到美国，我们建议买直飞的机票（不在美国国内转机），这时LAX是唯一的选择。如果实在没有直飞的飞机，可以考虑在San Francisco转飞Ontario(ONT)，这个机场距UCR要近的多，大概只要半个小时的路程。
+由于是第一次到美国，我们建议买直飞的机票（不在美国国内转机），这时LAX是唯一的选择。如果实在没有直飞的飞机，可以考虑在San Francisco转飞Ontario(ONT)，这个机场距UCR要近的多，大概只要半个小时的路程。  
+
 ### 2.5 租房／临时住宿
       CSSA-UCR对UCR中国学生的建议是，在来美之前通过联系同专业学长或者其它联系人定好住处。具体的住房情况请见相关住房章节。但是不排除有同学刚到UCR，没有提前定好公寓，需要一些时间，于是可能会需要短期的住宿，可以参考以下信息。
 - GuestHouse   
 &emsp;&emsp;在Family Housing Community，有可能会有空房，UCR的同学可以咨询951-827-6350来了解更多的信息。
 - International Residence & UCR ExtensionCenter   
-&emsp;&emsp;UCR校区东侧的UCR Extension Center（位于University Ave上，60号公路东）会有临时住房。   
-&emsp;&emsp;联系方式：951-827-1708，[infoucx.ucr.edu](infoucx.ucr.edu)
+UCR校区东侧的UCR Extension Center（位于University Ave上，60号公路东）会有临时住房。   
+联系方式：951-827-1708，[infoucx.ucr.edu](infoucx.ucr.edu)
 -  Comfort Inn   
-&emsp;&emsp;在University Ave.上，应该算是离UCR最近的hotel   
-&emsp;&emsp;地址：1590 University Avenue, Riverside, CA 92507  
+在University Ave.上，应该算是离UCR最近的hotel   
+地址：1590 University Avenue, Riverside, CA 92507  
 
 ### 2.6 接机
 &emsp;&emsp;CSSA一般负责安排秋季入学新生的接机。请在CSSA网站上填写接机报名表，告知我们到达时间、航空公司和机场。CSSA会安排好接机事务，尽请放心。不过需要强调的是，如果改了时间，一定要跟CSSA联系。毕竟从UCR到洛杉矶国际机场（LAX）来回要4-5个小时，接机同学非常辛苦。UCR附近的机场比较多，同学们出行的选择还是非常多的。
@@ -157,24 +158,26 @@ description: 笔记整理
 - 离UCR最近的大机场是Los Angeles International Airport（LAX），一般从中国来美国基本上都是在LAX下飞机，而且同ONT相比，LAX要大的多，航班也更多，机票比较便宜，所以在出行时要做好均衡。LAX离UCR大约有75tltile，一般要driving70分钟左右，此外，路上很有可能有traffic，所以要做好2个小时的车行准备。如果选择LAX做为出行的机场，有以下几种交通方式：
 	- 找朋友接送，这个见仁见智吧，毕竟来回4个小时，朋友也很辛苦。
 	- 自己开车，然后停在附近的停车场，一般的rate是$6-$10/天（税前），如果短期出行可以考虑存车，但要注意平时weekday和weekend的rate是不同的，holiday也比较贵。LAX附近有很多类似的停车场，大都距LAX 5 miles左右，停车场都会提供免费的shllttle接送，不用担心。推荐LAX Airport Parking（可以说是最便宜的了，一天只有$5）此外，可以查这个网站，有一些停车场的信息汇总。一般需要提前在网上预订，交一点deposit，然后把确认页打印出来，存车的时候出示一下。但是要提前做好schedule，一般便宜的停车场很抢手，很早就订没了，尤其是holiday的时候。而且，要考虑到travel回来是否还有精力继续开一个多小时的车回来，对于驾龄较长的同学，应该不是问题，但新手就不推荐了。
-	- Metrolink +Airport Bus，这是比较方便的公共交通，Metrolink类似火车，可以让朋友送到Riverside Station，在downtown附近，当然也可以选择坐公车过去，坐1路公车到downtown，然后走过去，大概要走10-15分钟，其实从学校开车到station最多10分钟，还是找人送吧，这么近，谁都会帮忙的。然后买票，一般单程是12块，到LA union station，一般要坐75分钟，下了火车，走Gateway square方向，找到蓝色的flyaway bus，有个小亭子买票，单程7块，上车，如果不堵车的话，最多30分钟就可以到LAX机场了，记得上车时告诉司机你在哪个terminal下，自己多看着点也行。Travel回来的时候，就在机场绿色的bus sign下等，要记得问清是否是到Union Station的bus，因为还有开到Irvine和别的地方的，不要上错了车，到了Union Station，去小亭子买票，然后回来给司机看一下，买Metrolink的票，坐车，找人去车站接一下。因为Riverside line比较少，而且晚上基本没车，所以回来的时候可以选择坐San Bernardino line，车比较多，找朋友去San Bernardino Station接也不远，开车15分钟就到了。Metrolink的Schedline可以在这个网址查到。Flyaway一般半小时一趟，高峰的时期15分钟一趟，schedule可以在这里找到。从Uniou Station下车找到flyaway的地图（实在找不到就问人）: 在LAX要找这个bus sign等flyaway
-		![Patsaouras Transit Plaza, Los Angeles, CA 90012](https://ws3.sinaimg.cn/large/006tNc79ly1fpqaow5uatj315d1351kx.jpg "Patsaouras Transit Plaza, Los Angeles, CA 90012")
-	- 订Super shuttle（单程一般是$80左右）直接到家门口接，送到相应的terminal，这种方法适用于人比较多的情况，一般加一个人也就$10，大家share一下就比较划算了。如果考虑这种方法，可以多上我们CSSA的论坛发贴，问有没有人schedule相近，然后一起share的，一般回国的时候都选择这种方式，因为拿的行李比较多，坐火车可能会不太方便，而且也比较容易找到回国的同学，说不定还坐一个航班呢，飞机上也有个伴。
-		![Information is from supershuttle.com](https://ws1.sinaimg.cn/large/006tNc79gy1fpqax9xlhcj31kw0w27wh.jpg "Information is from supershuttle.com")
-		（大车：一个人单独77元，两个人一共86元，三个人一共95块，与其他乘客共用一辆车）（包大车：142元，共可坐9人，每人平均15.78元。但因为每人一定都有行李，所以可能只能坐5-6人，每人平均23.67-28.4元）
-		Tips not included (18% of total is required for tipping) (need toput credit card on file for booking)
-		可以在以下网址订到Shuttle:
-		[ Airport-LA](http://www.airport-la.com/ride/index.php?cpc&gclid=CKW2wK-j76ICFRNSgwodAjV6lQ%20)
-		[Supershuttle-LA](https://www.supershuttle.com/locations/losangeleslax/)
-		Local: 626-443-6600 
-		Toll Free: 800-258-3826
+	- Metrolink +Airport Bus，这是比较方便的公共交通，Metrolink类似火车，可以让朋友送到Riverside Station，在downtown附近，当然也可以选择坐公车过去，坐1路公车到downtown，然后走过去，大概要走10-15分钟，其实从学校开车到station最多10分钟，还是找人送吧，这么近，谁都会帮忙的。然后买票，一般单程是12块，到LA union station，一般要坐75分钟，下了火车，走Gateway square方向，找到蓝色的flyaway bus，有个小亭子买票，单程7块，上车，如果不堵车的话，最多30分钟就可以到LAX机场了，记得上车时告诉司机你在哪个terminal下，自己多看着点也行。Travel回来的时候，就在机场绿色的bus sign下等，要记得问清是否是到Union Station的bus，因为还有开到Irvine和别的地方的，不要上错了车，到了Union Station，去小亭子买票，然后回来给司机看一下，买Metrolink的票，坐车，找人去车站接一下。因为Riverside line比较少，而且晚上基本没车，所以回来的时候可以选择坐San Bernardino line，车比较多，找朋友去San Bernardino Station接也不远，开车15分钟就到了。Metrolink的Schedline可以在这个网址查到。Flyaway一般半小时一趟，高峰的时期15分钟一趟，schedule可以在这里找到。从Uniou Station下车找到flyaway的地图（实在找不到就问人）: 在LAX要找这个bus sign等flyaway。  
+![Patsaouras Transit Plaza, Los Angeles, CA 90012](https://ws3.sinaimg.cn/large/006tNc79ly1fpqaow5uatj315d1351kx.jpg "Patsaouras Transit Plaza, Los Angeles, CA 90012")
+	- 订Super shuttle（单程一般是$80左右）直接到家门口接，送到相应的terminal，这种方法适用于人比较多的情况，一般加一个人也就$10，大家share一下就比较划算了。如果考虑这种方法，可以多上我们CSSA的论坛发贴，问有没有人schedule相近，然后一起share的，一般回国的时候都选择这种方式，因为拿的行李比较多，坐火车可能会不太方便，而且也比较容易找到回国的同学，说不定还坐一个航班呢，飞机上也有个伴。   
+![Information is from supershuttle.com](https://ws1.sinaimg.cn/large/006tNc79gy1fpqax9xlhcj31kw0w27wh.jpg "Information is from supershuttle.com")   
+（大车：一个人单独77元，两个人一共86元，三个人一共95块，与其他乘客共用一辆车）（包大车：142元，共可坐9人，每人平均15.78元。但因为每人一定都有行李，所以可能只能坐5-6人，每人平均23.67-28.4元）   
+Tips not included (18% of total is required for tipping) (need toput credit card on file for booking)   
+可以在以下网址订到Shuttle:  
+[ Airport-LA](http://www.airport-la.com/ride/index.php?cpc&gclid=CKW2wK-j76ICFRNSgwodAjV6lQ%20)  
+[Supershuttle-LA](https://www.supershuttle.com/locations/losangeleslax/)  
+Local: 626-443-6600   
+Toll Free: 800-258-3826
 	- 私人小公司最后提供一种方式比较适于人不太多的情况，大家可以试着联系看看。80元，华人讲国语,大约可以坐5人,联系电话 714-515-2982
-- 不同的公司其实都差不多，没有什么区别。此外，UCR附近还有的机场是Orange County Airport (SNA, 50 miles), San Diego Airport, (SAN,100 miles), Bob Hope Airport (BUR, 70 miles)，除了找人接送外应该没有什么其他的方法了，而且这三个机场和LAX相比，规模都比较小，机票可能会贵一点，所以一般很少选择，但机票这个东西呢，也不好说，曾经SAN比LAX的机票便宜100刀，这个如果有车的话，那就考虑一卜吧，顺便去SanDiego去玩下，如果有朋友来CA玩，自己有车，机票又比LAx便宜的话，可以考虑，但可能性一般比较小，相比来较，LAX的票最便宜，ONT最近最方便，而且，有时候机票和LAX差不了多少钱。
+- 不同的公司其实都差不多，没有什么区别。此外，UCR附近还有的机场是Orange County Airport (SNA, 50 miles), San Diego Airport, (SAN,100 miles), Bob Hope Airport (BUR, 70 miles)，除了找人接送外应该没有什么其他的方法了，而且这三个机场和LAX相比，规模都比较小，机票可能会贵一点，所以一般很少选择，但机票这个东西呢，也不好说，曾经SAN比LAX的机票便宜100刀，这个如果有车的话，那就考虑一卜吧，顺便去SanDiego去玩下，如果有朋友来CA玩，自己有车，机票又比LAx便宜的话，可以考虑，但可能性一般比较小，相比来较，LAX的票最便宜，ONT最近最方便，而且，有时候机票和LAX差不了多少钱。  
+
+
 ## 第三章 初到UCR生活指南
 ### 3.1 银行开户
-在美国，大部分的交易时通过银行卡和Checks（支票）来交易的，银行卡主要有两种：Debit Card（借记卡）和Credit Card（信用卡）。3.2和3.3是两种卡的详细说明。
+&emsp;&emsp;在美国，大部分的交易时通过银行卡和Checks（支票）来交易的，银行卡主要有两种：Debit Card（借记卡）和Credit Card（信用卡）。3.2和3.3是两种卡的详细说明。
 ### 3.2 Debit Card 借记卡
-要用借记卡，必须要先开银行账户，银行账户分Checking Account和Saving Account两种。Checking Account里面的钱可以用来签支票，但无利息。Saving Account有些有利息，有些没有，他们之间的amount可以随时在网上转移。还有其他银行账户，如CD，跟国内的定期存款类似，利息相对来说比较高。在学校内银行的ATM机，集中在Highlander Union Building (HUB)附近。通常使用本银行的ATM机取现不收手续费，使用其他银行的ATM机取现会收$3-$5手续费。学校附近Bank of America、Chase的ATM机较多，所以通常学生会在BofA开户。而且这两家银行的分行都是在自行车15分钟以内的距离。另外还有Wells Fargo，分行距离校园也很近，也很方便。
+&emsp;&emsp;要用借记卡，必须要先开银行账户，银行账户分Checking Account和Saving Account两种。Checking Account里面的钱可以用来签支票，但无利息。Saving Account有些有利息，有些没有，他们之间的amount可以随时在网上转移。还有其他银行账户，如CD，跟国内的定期存款类似，利息相对来说比较高。在学校内银行的ATM机，集中在Highlander Union Building (HUB)附近。通常使用本银行的ATM机取现不收手续费，使用其他银行的ATM机取现会收$3-$5手续费。学校附近Bank of America、Chase的ATM机较多，所以通常学生会在BofA开户。而且这两家银行的分行都是在自行车15分钟以内的距离。另外还有Wells Fargo，分行距离校园也很近，也很方便。
 #### 3.2.1 开户
 - 选银行：Serviceplus Credit Union的优点是分行离学校近，Bank of America以及CHASE的优点是在美国其他地方的ATM机比较多，出去旅游到外州，取钱存钱也很方便。BofA (Bank of America)的官方网站是[Bank of America](http://www.bankofamerica.com)。CHASE的官方网站是[Chase](http://www.chase.com)。开户的时候，你可以同时开通网银服务，在网络上管理自己的账户，非常方便。
 - 当选择了银行后，就可以去开户了。Bank of America在Chicago Ave和University Ave的十字路口的东南角。Service plus Credit Union位于University Village里。CHASE也在University Village里。
@@ -184,174 +187,194 @@ description: 笔记整理
 - 新生最好在来了之后尽快把现今存到银行里面，身上带大量现金不安全
 - 熟悉环境后可以考虑转用其他银行，比如Citibank, Wells Fargo等，利息可能较高
 - 其他详细的信息，如利息等是一直在变的，每个银行不同时期会有不同的类似促销的活动，大家可以自己去查
-- 写Check时，要保证checking account里有足够的资金，不然的话会遭到罚款。
+- 写Check时，要保证checking account里有足够的资金，不然的话会遭到罚款。  
+
+
 ### 3.3 Credit Card 信用卡
-    信用卡公司最大的两家是Visa和Master，几乎所有的地方都接受。小一点的是American Express和Discovery，有些地方不接受。申请信用卡不再强制要求SSN，但信用记录依然是很关键的。刚来的时候大部分同学是没有信用记录的，所以很容易被拒。一些没有SSN的同学也是可以申请信用卡的，可以通过使用银行的借记卡积累信用，一年后一般银行会主动offer你信用卡。比较容易申请到的是Serviceplus Credit Union和Bank of America，因为你们有该银行账户，但信用额度比较低。
-    还有就是各大机构的学生卡，比如American Express, Bank of America, Citibank, Chase, Discovery等。
-    注意事项：开始申请信用卡时，申请一个银行的，如果被拒，一般六个月内没有希望申请到该银行的其他卡。
+&emsp;&emsp;信用卡公司最大的两家是Visa和Master，几乎所有的地方都接受。小一点的是American Express和Discovery，有些地方不接受。申请信用卡不再强制要求SSN，但信用记录依然是很关键的。刚来的时候大部分同学是没有信用记录的，所以很容易被拒。一些没有SSN的同学也是可以申请信用卡的，可以通过使用银行的借记卡积累信用，一年后一般银行会主动offer你信用卡。比较容易申请到的是Serviceplus Credit Union和Bank of America，因为你们有该银行账户，但信用额度比较低。  
+&emsp;&emsp;还有就是各大机构的学生卡，比如American Express, Bank of America, Citibank, Chase, Discovery等。  
+&emsp;&emsp;注意事项：开始申请信用卡时，申请一个银行的，如果被拒，一般六个月内没有希望申请到该银行的其他卡。
 ### 3.4 手机及电话卡
 #### 3.4.1 简单讲，怎么办手机
-    在美国常用的无线通讯公司有T-Mobile, AT&T, Sprint, Verizon，还有各种各样的Virtual Carrier。Virtual Carrier（虚拟运营商）的概念就是，一家相对较小的无线通讯公司租了上述大公司的服务，然后转为最终用户提供有discount的sub服务，价格较低但是可能plan里的data talk text较少。去任何一家手机运营商的授权店，填表、选号、激活、付钱就可以了。美国主要有两种plan: Pre-Paid预付费、Post-Paid后付费。预付费的plan很容易开，只要交钱就可以办了。后付费的plan通常需要检查信用记录，如果没有SSN的话很可能需要交$100 - $500的deposit。
-     离UCR很近的店有University Village里面的T-mobile。Chicago Ave和University Ave交口处有AT&T。
+&emsp;&emsp;在美国常用的无线通讯公司有T-Mobile, AT&T, Sprint, Verizon，还有各种各样的Virtual Carrier。Virtual Carrier（虚拟运营商）的概念就是，一家相对较小的无线通讯公司租了上述大公司的服务，然后转为最终用户提供有discount的sub服务，价格较低但是可能plan里的data talk text较少。去任何一家手机运营商的授权店，填表、选号、激活、付钱就可以了。美国主要有两种plan: Pre-Paid预付费、Post-Paid后付费。预付费的plan很容易开，只要交钱就可以办了。后付费的plan通常需要检查信用记录，如果没有SSN的话很可能需要交$100至$500的deposit。  
+&emsp;&emsp;离UCR很近的店有University Village里面的T-mobile。Chicago Ave和University Ave交口处有AT&T。
 #### 3.4.2 有哪些比较大的运营商可选
-    最大的一家是At&T，经营全美最大的无线网络，拥有近7300万用户。其次是Verizon，拥有近6900万用户，第三的是Sprint，拥有近5200万用户。排在第四的是T-Mobile，拥有近3150万用户。T-mobile的好处是T-mobile用户之间互相对打，不扣分钟数，所以如果你的朋友大部分使用的是T-Mobile，你可以考虑也用T-mobile. 这四家中，AT&T和T-Mobile是GSM网络，Verizon和Sprint是CDMA网络。AT&T的好处嘛，如果你是苹果粉丝，想要iPhone机，那就要选AT&T啦，会要求签两年合同，因为两者的合作关系，正是因为这个合同使刷机现在变得成本很高。后面会说到iPhone的情况。
+&emsp;&emsp;最大的一家是At&T，经营全美最大的无线网络，拥有近7300万用户。其次是Verizon，拥有近6900万用户，第三的是Sprint，拥有近5200万用户。排在第四的是T-Mobile，拥有近3150万用户。T-mobile的好处是T-mobile用户之间互相对打，不扣分钟数，所以如果你的朋友大部分使用的是T-Mobile，你可以考虑也用T-mobile. 这四家中，AT&T和T-Mobile是GSM网络，Verizon和Sprint是CDMA网络。AT&T的好处嘛，如果你是苹果粉丝，想要iPhone机，那就要选AT&T啦，会要求签两年合同，因为两者的合作关系，正是因为这个合同使刷机现在变得成本很高。后面会说到iPhone的情况。
 #### 3.4.3 跟中国国内办手机有什么不一样的吗
 - 通常你不需要花钱买手机，除非你选择很好很贵的手机
 - 通常你要签一年到两年的合同，在此期间你承诺会使用这一家运营商的服务
-- 通常你必须有SSN，就是你必须有干净的信用背景，否则就要缴纳一定的押金
+- 通常你必须有SSN，就是你必须有干净的信用背景，否则就要缴纳一定的押金  
+
+
 #### 3.4.4 有什么Individual Plan（个人套餐）
-    通常你付给手机运营商的月费买到的是一定的通话时间，比如500分钟。另外，套餐里还会包含一些特殊的福利，比如晚上打电话免费(Unlimited Nights)，周末打电话免费(Unlimited Weekends)，网内电话免费(Unlimited Mobile to Mobile)。AT&T还有一个福利叫Unity，就是拨打所有的AT&T的固定电话不要钱。
+&emsp;&emsp;通常你付给手机运营商的月费买到的是一定的通话时间，比如500分钟。另外，套餐里还会包含一些特殊的福利，比如晚上打电话免费(Unlimited Nights)，周末打电话免费(Unlimited Weekends)，网内电话免费(Unlimited Mobile to Mobile)。AT&T还有一个福利叫Unity，就是拨打所有的AT&T的固定电话不要钱。
 6/20/2015更新：现在大部分plan是unlimited talk / unlimited text / limited data。AT&T的价格约$50/月，T-Mobile价格$45/月，Verizon价格$60/月。
 #### 3.4.5 什么是Family Plan（家庭套餐）
-    Family Plan是用一个帐号开通多个手机。跟普通的Individual Plan一样，它也有相应的分钟数，但是这些分钟数是这几个手机共用。Family Plan是相对比较经济的。比如AT&T 700分钟的Family Plan是$109.99二条线，这个基础上加一条线是$20。这样如果是五个人共用这个Family Plan，月费是$109.99+$10×3=$139.99，平摊每个人是$28。
+&emsp;&emsp;Family Plan是用一个帐号开通多个手机。跟普通的Individual Plan一样，它也有相应的分钟数，但是这些分钟数是这几个手机共用。Family Plan是相对比较经济的。比如AT&T 700分钟的Family Plan是$109.99二条线，这个基础上加一条线是$20。这样如果是五个人共用这个Family Plan，月费是$109.99+$10×3=$139.99，平摊每个人是$28。
 #### 3.4.6 有漫游费吗
-    基本上所有的手机Plan都是美国+加拿大漫游。出国的话，漫游默认是关闭的（除了去加拿大）。如果需要的话，可以打客服电话开通国际漫游的业务。
+&emsp;&emsp;基本上所有的手机Plan都是美国+加拿大漫游。出国的话，漫游默认是关闭的（除了去加拿大）。如果需要的话，可以打客服电话开通国际漫游的业务。
 #### 3.4.7 我带来的中国国内手机可以用吗？
-    取决于你的手机是GSM的还是CDMA的。中国联通和中国移动使用的GSM手机可以使用AT&T、T-Mobile等运营商的服务。中国电信的CDMA手机可以使用Verizon和Sprint的服务。
+&emsp;&emsp;取决于你的手机是GSM的还是CDMA的。中国联通和中国移动使用的GSM手机可以使用AT&T、T-Mobile等运营商的服务。中国电信的CDMA手机可以使用Verizon和Sprint的服务。
 #### 3.4.8 我在美国版的手机可以拿到中国用吗？
-    如果你使用的是Unlocked的手机，是可以直接在中国使用的，到了中国换SIM卡就可以了。
-    如果你使用的是在运营商买的Carrier Locked手机，需要解开运营商锁之后才可以使用。大部分旧型号的手机在中国的手机店都可以解锁，不过一般建议在美国解锁后回国。解锁需要和客服说你要到中国一段时间，需要把手机解锁。如果你符合解锁条件，运营商会给你一个密码，以及如何输入，就可以解开了。
+&emsp;&emsp;如果你使用的是Unlocked的手机，是可以直接在中国使用的，到了中国换SIM卡就可以了。  
+&emsp;&emsp;如果你使用的是在运营商买的Carrier Locked手机，需要解开运营商锁之后才可以使用。大部分旧型号的手机在中国的手机店都可以解锁，不过一般建议在美国解锁后回国。解锁需要和客服说你要到中国一段时间，需要把手机解锁。如果你符合解锁条件，运营商会给你一个密码，以及如何输入，就可以解开了。
 #### 3.4.9 为什么办手机需要社会安全号（SSN）？
-    美国是一个信用社会，你的SSN号码背后是你过去的信用记录，包括你有没有按时交房租，有没有按时交水电费，有没有按时交信用卡账单，等等，通过你的SSN，运营商决定可不可以信任你会按时交电话费，也就决定他能不能给你提供服务或者需不需要一笔押金。基本上SSN就像一个身份证号。
-    如果你没有SSN但是你想办手机，那还是有办法的。一是找个有SSN的人跟你一起办Family Plan，二是交押金，三十办预付费手机，详中国国内的神州行。注意在AT&T这种服务叫GoPhone，其他的公司都称之为Prepaid Plans。
+&emsp;&emsp;美国是一个信用社会，你的SSN号码背后是你过去的信用记录，包括你有没有按时交房租，有没有按时交水电费，有没有按时交信用卡账单，等等，通过你的SSN，运营商决定可不可以信任你会按时交电话费，也就决定他能不能给你提供服务或者需不需要一笔押金。基本上SSN就像一个身份证号。  
+&emsp;&emsp;如果你没有SSN但是你想办手机，那还是有办法的。一是找个有SSN的人跟你一起办Family Plan，二是交押金，三十办预付费手机，详中国国内的神州行。注意在AT&T这种服务叫GoPhone，其他的公司都称之为Prepaid Plans。
 #### 3.4.10 “为什么手机不要钱”？
-    运营商先帮你垫上了，然后再慢慢把这些钱收回来。这叫做subsidize。为了收回这笔钱，运营商会要求你签一年到两年的合同，如果你提前终止的话，他们会收你一个几百块的Early Termination Fee，抵消他们当初给你垫付的买手机的花费。实际上总消费是差不多的，因为带手机的plan一般会比BYOP (Bring Your Own Phone)的plan贵$20 - $30以抵消设备成本。
+&emsp;&emsp;运营商先帮你垫上了，然后再慢慢把这些钱收回来。这叫做subsidize。为了收回这笔钱，运营商会要求你签一年到两年的合同，如果你提前终止的话，他们会收你一个几百块的Early Termination Fee，抵消他们当初给你垫付的买手机的花费。实际上总消费是差不多的，因为带手机的plan一般会比BYOP (Bring Your Own Phone)的plan贵$20 - $30以抵消设备成本。
 #### 3.4.11 国际电话卡
 从美国打长途到中国或者其它国家是很便宜的，方式也很多．以下列举几种常见的方法：
 - **Google Voice**。由谷歌提供的VOIP服务。有iPhone/Android/Windows/Mac/Linux的客户端。拨打美国加拿大电话完全免费，拨打中国大陆的费率是$0.01/分钟。
-- **Skype**。由Skype提供的VOIP服务。有iPhone/Android/Windows/Mac/Linux的客户端。拨打美国和加拿大电话的费率是$0.05/分钟，拨打中国大陆的费率是$0.05接通费+$0.02/分钟。
+- **Skype**。由Skype提供的VOIP服务。有iPhone/Android/Windows/Mac/Linux的客户端。拨打美国和加拿大电话的费率是$0.05/分钟，拨打中国大陆的费率是$0.05接通费+$0.02/分钟。  
+
+
 ### 3.5 开网、电、煤气
 #### 3.5.1 找哪家公司开通网络或电视？
-    经营网络和电视的公司主要是Charter Communications和AT&T。Charter是基于Cable的电视和网络，AT&T提供DSL服务，在某些地段提供基于光纤的网络和称为U-verse的电视业务。根据你住址不同，提供服务的公司可能会有差异。其它可以提供服务的有Verizon的FiOS光纤网络和Time Warner的Cable。
+&emsp;&emsp;经营网络和电视的公司主要是Charter Communications和AT&T。Charter是基于Cable的电视和网络，AT&T提供DSL服务，在某些地段提供基于光纤的网络和称为U-verse的电视业务。根据你住址不同，提供服务的公司可能会有差异。其它可以提供服务的有Verizon的FiOS光纤网络和Time Warner的Cable。
 #### 3.5.2 怎么开通网络或是电视？
-      开通网络电视的步骤根据服务商不同而不同．基本上都可以通过客服电话，提供身份信息(SSN、地址、电话、ID等），选择所需要的Service Plan。一般供应商会提供所需要的设备，如modem〔调制解调器）和router〔路由器），这些设备一般不会免费，通常是以出租的方式提供给用户。购买服务过后．服务商提供上门安装服务。如果你有自己设备，你可以选择不从服务商那里租设备。除了通过客服电话，也可以通过供应商的网站来定购。
+&emsp;&emsp;开通网络电视的步骤根据服务商不同而不同．基本上都可以通过客服电话，提供身份信息(SSN、地址、电话、ID等），选择所需要的Service Plan。一般供应商会提供所需要的设备，如modem〔调制解调器）和router〔路由器），这些设备一般不会免费，通常是以出租的方式提供给用户。购买服务过后．服务商提供上门安装服务。如果你有自己设备，你可以选择不从服务商那里租设备。除了通过客服电话，也可以通过供应商的网站来定购。
 #### 3.5.3 关于新用户折扣
-      Charter的网络和电视对于新用户一般有打折。但是要注意打折的价钱一般都有时间限制，比如前六个月．要特别注意正常的价钱，通常会比打折期间的价钱贵很多。另外要注意这种情况下可能会有合同的要求，比如12个月的合同，提前终止是有罚款的。
+&emsp;&emsp;Charter的网络和电视对于新用户一般有打折。但是要注意打折的价钱一般都有时间限制，比如前六个月．要特别注意正常的价钱，通常会比打折期间的价钱贵很多。另外要注意这种情况下可能会有合同的要求，比如12个月的合同，提前终止是有罚款的。
 #### 3.5.4 关于Charter的“免费”电视
-      如果你开通了Charter的网络服务．即便你没有开通它的电视网络，你的Cable里很可能有电视信号。接上你的电视试试看，你很可能就可以免费享用它们基本的有线电视服务。
+&emsp;&emsp;如果你开通了Charter的网络服务．即便你没有开通它的电视网络，你的Cable里很可能有电视信号。接上你的电视试试看，你很可能就可以免费享用它们基本的有线电视服务。
 #### 3.5.5 AT&T的DSL一定要开通电话吗？
-      现在全都直接开通High Speed Internet，和电话完全无关。
+&emsp;&emsp;现在全都直接开通High Speed Internet，和电话完全无关。
 #### 3.5.6 关于U-verse
-      U-verse是AT&T利用它的IPTV技术和光纤网络，通过网络传递电视信号（和Charter的技术相反）。正因为如此，它的电视信号是全数字的。U·verse配备DVR的功能，让你可以定时录制电视节目，也可以随时暂停或是重播。U-verse在全Riverside提供服务。
+&emsp;&emsp;U-verse是AT&T利用它的IPTV技术和光纤网络，通过网络传递电视信号（和Charter的技术相反）。正因为如此，它的电视信号是全数字的。U·verse配备DVR的功能，让你可以定时录制电视节目，也可以随时暂停或是重播。U-verse在全Riverside提供服务。
 #### 3.5.7 关于数字电视（DTV)
-      美国现在已经停止模拟电视信号的传送。到2009年2月份，所有无线传送的电视信号都已经停止。如果你的电视机不具备播放数字电视的功能，那你有以下的选择：
+&emsp;&emsp;美国现在已经停止模拟电视信号的传送。到2009年2月份，所有无线传送的电视信号都已经停止。如果你的电视机不具备播放数字电视的功能，那你有以下的选择：
 - 更新电视机，不一定要买高清电视（HDTV），市场也有非高清的数字电视（SDTV）
 - 用有线电视，有线电视还会继续提供模拟电视信号
-- 使用机顶盒将数字信号转换成模拟信号。Digital TV Facts提供更多的参考信息。机顶盒大概也就是40美金左右。
+- 使用机顶盒将数字信号转换成模拟信号。Digital TV Facts提供更多的参考信息。机顶盒大概也就是40美金左右。  
+
+
 #### 3.5.8 电、煤气
-请参阅UCR校方及 Apartment的说明。
+&emsp;&emsp;请参阅UCR校方及 Apartment的说明。
 ### 3.6 办理汽车驾照与汽车买卖 
-     美国驾照除了是驾驶汽车的凭证外，在美国还有一个非常重要的作用，就是 
-可以作为你的 ID，就象我们的身份证一样，既便于携带，只要不出境大部分场合 可以代替护照(比如坐飞机、买酒、配合信用卡的使用等)。 
-     申请美国驾照分两个步骤:第一是申请 Learner’s Permit，相当于我们的学习驾照，但是这个驾照完全可以作为 ID 来使用，得到这个驾照很简单，只要熟悉一下美国相关的交通法规，到任何一个你自己选定的考点参加笔试，考过后再交费20美元就可以得到 Learner’s Permit; 如果没有考过就不需要交钱。持 Learner’s Permit 期间，持有者必须在有正式驾照的人陪同才可以上路驾驶。第二是当拿到 Learner’s Permit 后自己觉得驾驶过关了，就可以选择任何一个考点去参加路考，这 个路考需要先提前打电话预约考试时间和地点，如果路考通过了就可以马上发给你 正式的驾照。
-     关于汽车驾照的详细信息参见官方网站: [http://www.dds.ga.gov/ ](#)
-    购买新旧车、二手车价格评估等，参见网站:[Kelly Blue Books](http://www.kbb.com/%20)[Autotrader](https://www.autotrader.com/cars-for-sale/)
-    驾照考试请参考[ 加州驾照笔试考试攻略 ](http://blog.sina.com.cn/s/blog_1462636a90102wng2.html "加州驾照笔试考试攻略")
+&emsp;&emsp;美国驾照除了是驾驶汽车的凭证外，在美国还有一个非常重要的作用，就是 
+可以作为你的 ID，就象我们的身份证一样，既便于携带，只要不出境大部分场合 可以代替护照(比如坐飞机、买酒、配合信用卡的使用等)。   
+&emsp;&emsp;申请美国驾照分两个步骤:第一是申请 Learner’s Permit，相当于我们的学习驾照，但是这个驾照完全可以作为 ID 来使用，得到这个驾照很简单，只要熟悉一下美国相关的交通法规，到任何一个你自己选定的考点参加笔试，考过后再交费20美元就可以得到 Learner’s Permit; 如果没有考过就不需要交钱。持 Learner’s Permit 期间，持有者必须在有正式驾照的人陪同才可以上路驾驶。第二是当拿到 Learner’s Permit 后自己觉得驾驶过关了，就可以选择任何一个考点去参加路考，这 个路考需要先提前打电话预约考试时间和地点，如果路考通过了就可以马上发给你 正式的驾照。  
+&emsp;&emsp;购买新旧车、二手车价格评估等，参见网站:[Kelly Blue Books](http://www.kbb.com/)[Autotrader](https://www.autotrader.com/cars-for-sale/)  
+&emsp;&emsp;驾照考试请参考[ 加州驾照笔试考试攻略 ](http://blog.sina.com.cn/s/blog_1462636a90102wng2.html "加州驾照笔试考试攻略")
+
 ## 第四章 购物及物资储备
 ### 4.1 学校附近的GROCERY SHOPPING
-      在UCR campus走路或骑车可到的范围内（3miles以内），卖食品为主的超市有4家，卖日用品为主的有3家。笔者整理了UCR附近的公寓和常见的几家store如下图所示。
+&emsp;&emsp;在UCR campus走路或骑车可到的范围内（3miles以内），卖食品为主的超市有4家，卖日用品为主的有3家。笔者整理了UCR附近的公寓和常见的几家store如下图所示。
 ![UCR Apt and Store Map](https://ws1.sinaimg.cn/large/006tNc79ly1fpqb08tj81j31kw1am7wi.jpg "UCR Apt and Store Map")
 #### 4.1.1 食品
-- Food4 less
-	位于Chicago Ave马路东侧，离其与Univ.Ave的交点不远。与BOA同在一个Plaza内。这个超市规模较大，性价比也相对较高。菜很新鲜，一般美国人能买到的水果蔬菜都能买到。并且值得一提的是尽管价格较资，这个店有羊肉卖，偶尔开开荤还是不错的。特色是夏天的西瓜，有时只要$0.2 一磅，并且质量较好；还有黄桃、樱桃等，也是非常不错的。
-	地址：3900 Chicago Avenue,Riverside, CA 92507-5347 (Food 4 Less)
-	这个街区晚上经常会有一些流浪者和讨要零钱的人，不是特别安全，所以建议天黑以后最好不要单独去bigsaver或food 4 less。
-- StaterBros
-	位于Iowa Ave上，离其与BlaineSt.的交界处不远，主要卖食物和与食品相关的生活用品如厨房用品等。食物质量不错，原价比Food4 less略贵，但每周都有coupon，如果只买促销的东西的话比之前价格便宜一半以上。特色是它家的肉类，质量很好，special的时候很便宜。
-	但是要注意的是美国的肉类一定要先上灶煮一下，瓢去血沫（这个过程比较恶心），在美国杀猪杀牛都不放血的。
-	地址：2995Iowa Avenue, Riverside, CA 92507-2810 (Stater Bros Markets) 
-	另外住在Univ. Hills的同学可以选择坐公车前往，出示学生卡可免车票。
-- Raphls
-	这个店在Canyon Crest上，适合住在学校南端的同学去。会员卡制（结账现场可免费办理），有自助checkout系统。号称东西是最新鲜的，价格较前几家贵，不过打特价的东西性价比还是不错的
-	地址：5225 Canyon Crest Drive,Riverside, CA 92507-6321 (Ralphs)
+- Food4 less  
+位于Chicago Ave马路东侧，离其与Univ.Ave的交点不远。与BOA同在一个Plaza内。这个超市规模较大，性价比也相对较高。菜很新鲜，一般美国人能买到的水果蔬菜都能买到。并且值得一提的是尽管价格较资，这个店有羊肉卖，偶尔开开荤还是不错的。特色是夏天的西瓜，有时只要$0.2 一磅，并且质量较好；还有黄桃、樱桃等，也是非常不错的。  
+地址：3900 Chicago Avenue,Riverside, CA 92507-5347 (Food 4 Less)  
+这个街区晚上经常会有一些流浪者和讨要零钱的人，不是特别安全，所以建议天黑以后最好不要单独去bigsaver或food 4 less。
+- StaterBros  
+位于Iowa Ave上，离其与BlaineSt.的交界处不远，主要卖食物和与食品相关的生活用品如厨房用品等。食物质量不错，原价比Food4 less略贵，但每周都有coupon，如果只买促销的东西的话比之前价格便宜一半以上。特色是它家的肉类，质量很好，special的时候很便宜。  
+但是要注意的是美国的肉类一定要先上灶煮一下，瓢去血沫（这个过程比较恶心），在美国杀猪杀牛都不放血的。  
+地址：2995Iowa Avenue, Riverside, CA 92507-2810 (Stater Bros Markets)   
+另外住在Univ. Hills的同学可以选择坐公车前往，出示学生卡可免车票。
+- Raphls  
+这个店在Canyon Crest上，适合住在学校南端的同学去。会员卡制（结账现场可免费办理），有自助checkout系统。号称东西是最新鲜的，价格较前几家贵，不过打特价的东西性价比还是不错的  
+地址：5225 Canyon Crest Drive,Riverside, CA 92507-6321 (Ralphs)   
+
 #### 4.1.2 日用品
-- Kmart
-	主要卖一些生活用品(如白行车，台灯等)，也卖少量食物，是住在Blame St附近的同学grocery shopping的最佳选择。从UCR骑车过去也只需要7分钟。并且旁边就是主要卖食物的State Bros超市连锁店。
-	地址: 7200 Arlington Ave, Riverside, CA 92503
-	地址: 3477 Arlington Ave, Riverside, CA 92506
+- Kmart  
+主要卖一些生活用品(如白行车，台灯等)，也卖少量食物，是住在Blame St附近的同学grocery shopping的最佳选择。从UCR骑车过去也只需要7分钟。并且旁边就是主要卖食物的State Bros超市连锁店。  
+地址: 7200 Arlington Ave, Riverside, CA 92503  
+地址: 3477 Arlington Ave, Riverside, CA 92506
 - Rite Aid
-	位于Chicago与Univ. Ave的路口西南角。主要卖一些非处方药及简单的日用白货，有一套白己的rebate系统。
-	地址:3849 Chicago Avenue, Riverside, CA 92507-5336 (Rite Aid)
+位于Chicago与Univ. Ave的路口西南角。主要卖一些非处方药及简单的日用白货，有一套白己的rebate系统。
+地址:3849 Chicago Avenue, Riverside, CA 92507-5336 (Rite Aid)
 - Town Square
-	在food 4 less对面，有ATT手机店，购物市场，一元店，一些餐厅等。一元店类似于国内的，可以买些杯子衣架洗衣筐之类的，不要奢求会有多好的质量。要提醒大家的是尽量不要在里面买货架上的吃的，看着很没有保证。另外，并不是所有的东西都是1块钱。
+在food 4 less对面，有ATT手机店，购物市场，一元店，一些餐厅等。一元店类似于国内的，可以买些杯子衣架洗衣筐之类的，不要奢求会有多好的质量。要提醒大家的是尽量不要在里面买货架上的吃的，看着很没有保证。另外，并不是所有的东西都是1块钱。  
+
 #### 4.1.3 自行车
-      初来乍到，自行车是最好的代步工具。特别把自行车单提出来作为一类。
+&emsp;&emsp;初来乍到，自行车是最好的代步工具。特别把自行车单提出来作为一类。
 按车轮尺寸分，主要有24号轮的小车和26号轮的大车，男生推荐买26号轮，因为学校周边地势起伏多坡，买小轮车骑会比较费劲。
-      二手自行车比较便宜，二三十到五六十美元不等，但车况难以保证，美国没有修自行车的地方，遇到总出问题的车恐怕得花时问学着自己修，且二手车信息渠道窄，不推荐新同学购买。如果买二手车要注意检查车闸，学校很多地方坡度较大，车闸不灵是很危险的。
-      便宜的新自行车价格在八十美元至一百二十美元之问，在学校附近的商业区Moreno Val-ley的Wal-Mart里即可买到，经济且实用。最近的自行车销售点在学校西侧的Kmart，价格偏高。此外，各种大型综合超市如Target，体育用品超市如Sports Authority都有销售。新车多数轮胎没气，可选择买气筒，或在有充气点的加油站如Shell等白助充气，需缴纳1美元左右的费用。记得要舍得花钱买结实的粗链条锁，文明的美国亦有许多不文明的事情发生，盗车实属平常。
+&emsp;&emsp;二手自行车比较便宜，二三十到五六十美元不等，但车况难以保证，美国没有修自行车的地方，遇到总出问题的车恐怕得花时问学着自己修，且二手车信息渠道窄，不推荐新同学购买。如果买二手车要注意检查车闸，学校很多地方坡度较大，车闸不灵是很危险的.
+&emsp;&emsp;便宜的新自行车价格在八十美元至一百二十美元之问，在学校附近的商业区Moreno Val-ley的Wal-Mart里即可买到，经济且实用。最近的自行车销售点在学校西侧的Kmart，价格偏高。此外，各种大型综合超市如Target，体育用品超市如Sports Authority都有销售。新车多数轮胎没气，可选择买气筒，或在有充气点的加油站如Shell等白助充气，需缴纳1美元左右的费用。记得要舍得花钱买结实的粗链条锁，文明的美国亦有许多不文明的事情发生，盗车实属平常。
 - **Kmart**: 3001Iowa Avenue, Riverside, CA, United States一(909) 784-2383(推荐)
 - **Wal-Mart**: 2663 Canyon Springs Parkway, Riverside, CA, United States一[(951)656-7218](#)
-- **Target**: 2755 Canyon Springs Parkway, Riverside, CA, United States一(951)697-6778
+- **Target**: 2755 Canyon Springs Parkway, Riverside, CA, United States一(951)697-6778  
+
+
 ### 4.2 距Campus距离比较远的超市
 - Winco
-	距离UCR车程15分钟的一家超市。口碑超好，食物新鲜，24小时营业。一般Winco不会打折发coupon，因为他的价格基本上已经是最便宜的了。有车同学的不二选择。
-	地址:12880 Day 8t, Moreno Valley, CA
+距离UCR车程15分钟的一家超市。口碑超好，食物新鲜，24小时营业。一般Winco不会打折发coupon，因为他的价格基本上已经是最便宜的了。有车同学的不二选择。
+地址:12880 Day 8t, Moreno Valley, CA
 -  Walmart
-	各类日常用品均有销售，当然90%都是made in china的。尽管有自行车卖，但不建议在这里买，如果你有师兄师姐带你来，小车是放不下白行车的，如果坐公交，公交车头只能放一辆白行车，很难保证，骑回去的话有可能会骑到山里……以后路熟了可以骑过来，刚买的时候就不要了吧。
-	Walmart有公车可到(16路)，注意公车weekday和周末的schedule是不一样的，周末一般一小时一趟
-	地址:5200 Van Buren Boulevard, Riverside, CA 92503-2544
+各类日常用品均有销售，当然90%都是made in china的。尽管有自行车卖，但不建议在这里买，如果你有师兄师姐带你来，小车是放不下白行车的，如果坐公交，公交车头只能放一辆白行车，很难保证，骑回去的话有可能会骑到山里……以后路熟了可以骑过来，刚买的时候就不要了吧.
+Walmart有公车可到(16路)，注意公车weekday和周末的schedule是不一样的，周末一般一小时一趟
+地址:5200 Van Buren Boulevard, Riverside, CA 92503-2544  
+
 ### 4.3 中国超市
 - 99大华超市
-	中国超市，东西齐全，中国特色的食品很能满足各地中国同学的要求。比如速冻饺子包子等易烹煮食品，广受中国学生喜爱;另外，新鲜的鱼类，海鲜也是琳琅满目。离UCR比较近的一个大华超市在Chino hill，开车从60号公路走，半小时车程。
-	地址：2959 Chino Avenue. Chino Hills. CA 91709. United States
+中国超市，东西齐全，中国特色的食品很能满足各地中国同学的要求。比如速冻饺子包子等易烹煮食品，广受中国学生喜爱;另外，新鲜的鱼类，海鲜也是琳琅满目。离UCR比较近的一个大华超市在Chino hill，开车从60号公路走，半小时车程。
+地址：2959 Chino Avenue. Chino Hills. CA 91709. United States
 - Rowland Height
-	也就是大家所说的中国城，也是走6o号公路，通常情况下45分钟左右。
-	地址：1015 S Nogales St, Rowland Heights, CA 91748
+也就是大家所说的中国城，也是走6o号公路，通常情况下45分钟左右。
+地址：1015 S Nogales St, Rowland Heights, CA 91748
 - Shunfat Supermarket（顺发超市）
-	既然是在中国城，中国超市的选择就有很多。其中一个口碑比较好的是位于香港广场的顺发超市。
-	地址:18745 Colima Road, Rowland Heights, CA
-	另外香港广场也有很多美食，详细内容请见食物介绍章节。
+既然是在中国城，中国超市的选择就有很多。其中一个口碑比较好的是位于香港广场的顺发超市。
+地址:18745 Colima Road, Rowland Heights, CA
+另外香港广场也有很多美食，详细内容请见食物介绍章节。
 - 夏威夷超市
-	目前本人见过的最大的美国华人超市，东西很多很齐，但是感觉卫生质量一般，距学校的路程也比较远，感兴趣的同学可以尝试下。
-	地址:120E Valley Blvd, San Gabriel, CA
+目前本人见过的最大的美国华人超市，东西很多很齐，但是感觉卫生质量一般，距学校的路程也比较远，感兴趣的同学可以尝试下。
+地址:120E Valley Blvd, San Gabriel, CA  
+
 ### 4.4 Mall/Outlet
-      Mall和Outlet的区别主要在于价格和款式，一般mall都是当季的新款，样了新，尺寸足，价格小贵，但其实也经常打折，O ut let一般都是过款，尺寸不足，多数货品是outlet专供货，这样价格就很便宜，尤其是一些名牌，就比较划算。笔者整理了下文提到的Mall和一些较远的Store如下图所示。
+&emsp;&emsp;Mall和Outlet的区别主要在于价格和款式，一般mall都是当季的新款，样了新，尺寸足，价格小贵，但其实也经常打折，O ut let一般都是过款，尺寸不足，多数货品是outlet专供货，这样价格就很便宜，尤其是一些名牌，就比较划算。笔者整理了下文提到的Mall和一些较远的Store如下图所示。
 ![UCR Mall Map](https://ws3.sinaimg.cn/large/006tNc79ly1fpqb1javbij31kw13pnpd.jpg "UCR Mall Map")
 #### 4.4.1 Mall
 - Moreno Valley Mall
-	离学校最近的是Moreno Valley Mall，这个Mall感觉比较小，人也不是很多，比较冷清，但一些基本的牌了也是有的，有Macy和JCPenny，一般化妆品有Promotion的时候，可以去这个最近的Macy。一般都是开车去5.2 miles，从学校开车10分钟吧。
-	此外，可以在学校的ParkingLot 2附近坐16路公共汽车，到Moreno Valley Mall下。
+离学校最近的是Moreno Valley Mall，这个Mall感觉比较小，人也不是很多，比较冷清，但一些基本的牌了也是有的，有Macy和JCPenny，一般化妆品有Promotion的时候，可以去这个最近的Macy。一般都是开车去5.2 miles，从学校开车10分钟吧。
+此外，可以在学校的ParkingLot 2附近坐16路公共汽车，到Moreno Valley Mall下。
 - Tyler Mall
-	地址：1299 Galleria at Tyler Riverside, CA 92503 
-	Riverside最大的Mall是TylerMall，这个Mall的牌子比较全，有Abercrombie&Fitch,Victoria secret, H&M等品牌专卖店。当然还有Nordstrom，以及JCpenney，以及Macy’s这种Department Store。女生买化妆品可以到Sephora，或是Nordstrom，以及Macy’s里的化妆品专柜。Mac啊，Clinique啊都有专柜。个人比较喜欢Sephora，里面有很多试用品，可以试画一下，再决定买不买。而且种类比较多，从指甲油到保养品，到化妆品，到香水，到刷子都有。
-	另外Body Shop里也有男生可以用的保养品，沐浴用品的。
-	在lower level也有一家MAC专卖店。也可以让BA帮你教你如何用某些产品。
-	此外还有可以放映iMax 3D的AMC电影院，听说好像还有mini高尔夫，AMC电影票可以在学校exchangestore买便宜一些。周围也有很多有名也好吃的restaurant和bar，比如:Elephant restaurant, California Pizza Kitchen等，中国餐馆有一家金港海鲜，非常一般，离的也不近，一般呢，还是开车去(12 miles左右，开车走91号高速公路)，15-20分钟左右到，但这个91 Hwy，一般都比较堵。如果是坐公车的话，要一个多小时，但公车凭学生卡免费啊，而且可以直达，所以很多新生来了之后，感觉boring，都会坐车去这个mall shopping  1,  10, 13, 15路都是到Tyler Mall，而且在学校附近都有站，这个大家就找公寓附近的站吧，担心miss站的，上车和司机说一声，到了告诉一下就可以了，这边的司机也都很nice，不用担心。只是记得啊，公交车都是有点的，周末可能会更早的结束，所以不要逛的太high了，到时没车回来就惨了。
+地址：1299 Galleria at Tyler Riverside, CA 92503 
+Riverside最大的Mall是TylerMall，这个Mall的牌子比较全，有Abercrombie&Fitch,Victoria secret, H&M等品牌专卖店。当然还有Nordstrom，以及JCpenney，以及Macy’s这种Department Store。女生买化妆品可以到Sephora，或是Nordstrom，以及Macy’s里的化妆品专柜。Mac啊，Clinique啊都有专柜。个人比较喜欢Sephora，里面有很多试用品，可以试画一下，再决定买不买。而且种类比较多，从指甲油到保养品，到化妆品，到香水，到刷子都有。
+另外Body Shop里也有男生可以用的保养品，沐浴用品的。
+在lower level也有一家MAC专卖店。也可以让BA帮你教你如何用某些产品。
+此外还有可以放映iMax 3D的AMC电影院，听说好像还有mini高尔夫，AMC电影票可以在学校exchangestore买便宜一些。周围也有很多有名也好吃的restaurant和bar，比如:Elephant restaurant, California Pizza Kitchen等，中国餐馆有一家金港海鲜，非常一般，离的也不近，一般呢，还是开车去(12 miles左右，开车走91号高速公路)，15-20分钟左右到，但这个91 Hwy，一般都比较堵。如果是坐公车的话，要一个多小时，但公车凭学生卡免费啊，而且可以直达，所以很多新生来了之后，感觉boring，都会坐车去这个mall shopping  1,  10, 13, 15路都是到Tyler Mall，而且在学校附近都有站，这个大家就找公寓附近的站吧，担心miss站的，上车和司机说一声，到了告诉一下就可以了，这边的司机也都很nice，不用担心。只是记得啊，公交车都是有点的，周末可能会更早的结束，所以不要逛的太high了，到时没车回来就惨了。
 - Victoria Gardens
-	还有一个好的Mall是Victoria Gardens，在Ontario Airport附近，是那种开放式的Mall，真的像个garden，一个一个的小店，这个Mall的东西全，样了漂亮，牌子多，但比较贵，有点那种精品的感觉，小资的人可能会非常喜欢，环境也很好。一般开车走25分钟（20 miles左右，Hwy 60W转15N），公共交通到达比较麻烦，换来换去的，等有车再去吧，先忍忍……
+还有一个好的Mall是Victoria Gardens，在Ontario Airport附近，是那种开放式的Mall，真的像个garden，一个一个的小店，这个Mall的东西全，样了漂亮，牌子多，但比较贵，有点那种精品的感觉，小资的人可能会非常喜欢，环境也很好。一般开车走25分钟（20 miles左右，Hwy 60W转15N），公共交通到达比较麻烦，换来换去的，等有车再去吧，先忍忍……
 - Beverly Hills Rodeo Dr
-	在比佛利的Rodeo Dr上，有着各大奢侈品牌的专卖店，从卡地亚到芬迪，到Bulgari，到Channel等等等等，拜金的美眉可以到那里去，不过距离不近，离学校有70miles左右，要开车2个小时。
-	地址: Rodeo Dr, Los Angeles, CA 90035
+在比佛利的Rodeo Dr上，有着各大奢侈品牌的专卖店，从卡地亚到芬迪，到Bulgari，到Channel等等等等，拜金的美眉可以到那里去，不过距离不近，离学校有70miles左右，要开车2个小时。
+地址: Rodeo Dr, Los Angeles, CA 90035
 - South Coast Plaza
-	南加州除了比佛利的Rodeo Dr，接下来最好的Mall就是South Coast Plaza了。个人比较喜欢South Coast Plaza里面从中档价位到高档的路易威登，香奈儿，古奇等一应俱全。算是综合了RodeoDr和Tyler Mall。如果大家没车又实在想逛可以可虑坐metrolink再倒公交车去。不过路线比较复杂。可以参考metrolink及RTA的网站[http://www.metrolinktrains.com/](#),[http://www.riversidetransit.com/](#)
-	地址：3333 Bristol St, Costa Mesa, CA 92626
+南加州除了比佛利的Rodeo Dr，接下来最好的Mall就是South Coast Plaza了。个人比较喜欢South Coast Plaza里面从中档价位到高档的路易威登，香奈儿，古奇等一应俱全。算是综合了RodeoDr和Tyler Mall。如果大家没车又实在想逛可以可虑坐metrolink再倒公交车去。不过路线比较复杂。可以参考metrolink及RTA的网站[http://www.metrolinktrains.com/](#),[http://www.riversidetransit.com/](#)
+地址：3333 Bristol St, Costa Mesa, CA 92626  
+
 #### 4.4.2 Outlet
-      进了outlet，给我的感觉有点破破烂烂，毕竞都是过款，号不全的，但的确便宜，而且和人高马大的老外比较来，我们的身材都比较小，那种小号，小小号的衣服刚好适合，只是可能要多下时问去挑挑捡捡的，但这就是shopping的乐趣啊。
+&emsp;&emsp;进了outlet，给我的感觉有点破破烂烂，毕竞都是过款，号不全的，但的确便宜，而且和人高马大的老外比较来，我们的身材都比较小，那种小号，小小号的衣服刚好适合，只是可能要多下时问去挑挑捡捡的，但这就是shopping的乐趣啊。
 - Ontario Mills Outlet
-	Ontario airport附近有一个OntarioMills Outlet，我就很喜欢去这个Outlet，开车20分钟左右，东西挺便宜的，还有JCPenny outlet和Marshall（这个Marshall稍后再介绍），牌子也全，小牌子多一些，太大的牌没有，但学生负担的起的牌了基本上都有了。
-	边上还有一个非常大的电影院fandango屏幕超大，如果看imax 3D，效果要比Tyler Mall的好，介绍可以看这个链接。至于交通方面，除了白己开车，其他都比较困难了，没有车的时候就蹭吧，此外，多上上我们CSSA的论坛，有的时候，车坐不满，也有人会发贴了，我就曾经发过。不过呢，白己努力买车考本是王道。
+Ontario airport附近有一个OntarioMills Outlet，我就很喜欢去这个Outlet，开车20分钟左右，东西挺便宜的，还有JCPenny outlet和Marshall（这个Marshall稍后再介绍），牌子也全，小牌子多一些，太大的牌没有，但学生负担的起的牌了基本上都有了。
+边上还有一个非常大的电影院fandango屏幕超大，如果看imax 3D，效果要比Tyler Mall的好，介绍可以看这个链接。至于交通方面，除了白己开车，其他都比较困难了，没有车的时候就蹭吧，此外，多上上我们CSSA的论坛，有的时候，车坐不满，也有人会发贴了，我就曾经发过。不过呢，白己努力买车考本是王道。
 - Desert Hill Outlet
-	这边最有名的就是Desert Hill Outlet，有名到什么地步呢，LA的人，甚至有SF的人开车过来买，LA还好吧，也就2个小时，SF那可是6, 7个小时呢，至于Irvine, San Diego开车过来的人也很多，甚至我听说过这是中国人到南加的旅游团必经的一站，算是人气非常旺，非常有名的一个outlet，基本原来就在于，它有非常多的牌子，而且有很多大牌，比如:Gucci, Channel, Burberry Prada之类的，回国探亲访友前必然要shopping一堆东西，那这个就是非常好的选择了。
-	还是自己开车吧，要不就蹭车，这个开车都要40分钟左右，其实不太远，只是有段山路不太好开，再加上10号HWY也有点堵，没听说谁坐公车去的……
+这边最有名的就是Desert Hill Outlet，有名到什么地步呢，LA的人，甚至有SF的人开车过来买，LA还好吧，也就2个小时，SF那可是6, 7个小时呢，至于Irvine, San Diego开车过来的人也很多，甚至我听说过这是中国人到南加的旅游团必经的一站，算是人气非常旺，非常有名的一个outlet，基本原来就在于，它有非常多的牌子，而且有很多大牌，比如:Gucci, Channel, Burberry Prada之类的，回国探亲访友前必然要shopping一堆东西，那这个就是非常好的选择了。
+还是自己开车吧，要不就蹭车，这个开车都要40分钟左右，其实不太远，只是有段山路不太好开，再加上10号HWY也有点堵，没听说谁坐公车去的……   
+
 #### 4.4.3 其他
-      在这就说说儿个大型的shopping department吧，Macy， Nordstrom，JCPenny基本上衣服，包包，化妆品，简单的家居生活用品都有的卖，fashion程度是Nordstrom \> Macy \> JCPenny，价格就是反过来，此外，JCPenny不卖化妆品。
-      Marshalls是各个商场卖不出去下架的东西的集合店，卖什么的都有，还有卖小孩玩具的，也有卖厨具，餐具的，香水，化妆品，包包，衣服都有的卖，给人感觉非常的杂乱，但它都卖的是名牌，有点像北京的工美，但看上去比工美破的多。但有的东西，真是便宜的吓人。近的一个在Moreno Valley，地址是2676 Canyon Springs Pkwy Riverside, CA, 92507 (951-653-6858)。对面就是Walmart，如果坐公车去，还是16路吧，其实这个和Moreno Valley Mall骑车也能去的，挺近的。
+&emsp;&emsp;在这就说说儿个大型的shopping department吧，Macy， Nordstrom，JCPenny基本上衣服，包包，化妆品，简单的家居生活用品都有的卖，fashion程度是Nordstrom \> Macy \> JCPenny，价格就是反过来，此外，JCPenny不卖化妆品。
+&emsp;&emsp;Marshalls是各个商场卖不出去下架的东西的集合店，卖什么的都有，还有卖小孩玩具的，也有卖厨具，餐具的，香水，化妆品，包包，衣服都有的卖，给人感觉非常的杂乱，但它都卖的是名牌，有点像北京的工美，但看上去比工美破的多。但有的东西，真是便宜的吓人。近的一个在Moreno Valley，地址是2676 Canyon Springs Pkwy Riverside, CA, 92507 (951-653-6858)。对面就是Walmart，如果坐公车去，还是16路吧，其实这个和Moreno Valley Mall骑车也能去的，挺近的。
 #### 4.4.4 电子产品
 - Bestbuy:  3900 Tyler St,Riverside, CA 92503
 - Office Depot:跟Bestbuy在同一个Plaza里
 - Costco：也有电了产品但需要会员卡才能进入:12700 Day Street  MorenoValley CA 92553
-- Staples: 3750 Tyler Street, Riverside, CA 92503
+- Staples: 3750 Tyler Street, Riverside, CA 92503  
+
+
 ### 4.5 网上购物
-      在美国，网上购物非常的方便，足不出户，家里的东西也可以一应俱全，我甚至还看到有在网上买ham和steak的……在网上购物，要注意的就是邮费，尽量挑免邮费的时候买吧，把钱贡献给USPS实在不如白己用的划算。还要注意就是，尽量使用credit card。Debit card虽然也可以当credit card使用，但因为直接连着checking account，如果信息被盗，那钱就直接划走了，不像credit card，如果你对某一笔花销有质疑，可以直接打电话给credit card的公司，要求取消这笔消费，基本上没有任何损失。白己的信息还是要多多注意的。一般网上购物，就直接去这个品牌的官方网站上购买，但也有一些那种信息汇总的网站，比如我最爱上的就是dealsea，这其实是个中国人白己做的网站，经常汇总一些打折的信息，更新的也非常快，当然啦，上了这个网站，你就会发现白己经常买东西，因为有些deal实在是太attractive啦!买之前要想清楚是不是真的需要，因为如果不需要的话，再便宜也是浪费。。。此外，还有Ben Bargains和Deal2buy以及Dealnews等汇集了打折信息的网站。由于美国的deal实在太多，还专门有一些讨论deal的网站，比如slickdeals.net，算是其中非常知名的一个了。对电了产品有兴趣，可以去buy.com; newegg; fry’s这三个网站卖的电了产品比circuit city, bestbuy便宜多了，但是需要记住的是newegg发货非常快，基本上你一下单，马上就发货了，所以 cancel的可能性非常低……此外，Amazon可谓是最全的网上购物网站了，而且没有税，赶上免邮费的时候，还是非常划算的。尤其现在amazon提供给所有在校学生免费一年的prime account(到期了千万别忘了取消哦)。
+&emsp;&emsp;在美国，网上购物非常的方便，足不出户，家里的东西也可以一应俱全，我甚至还看到有在网上买ham和steak的……在网上购物，要注意的就是邮费，尽量挑免邮费的时候买吧，把钱贡献给USPS实在不如白己用的划算。还要注意就是，尽量使用credit card。Debit card虽然也可以当credit card使用，但因为直接连着checking account，如果信息被盗，那钱就直接划走了，不像credit card，如果你对某一笔花销有质疑，可以直接打电话给credit card的公司，要求取消这笔消费，基本上没有任何损失。白己的信息还是要多多注意的。一般网上购物，就直接去这个品牌的官方网站上购买，但也有一些那种信息汇总的网站，比如我最爱上的就是dealsea，这其实是个中国人白己做的网站，经常汇总一些打折的信息，更新的也非常快，当然啦，上了这个网站，你就会发现白己经常买东西，因为有些deal实在是太attractive啦!买之前要想清楚是不是真的需要，因为如果不需要的话，再便宜也是浪费。。。此外，还有Ben Bargains和Deal2buy以及Dealnews等汇集了打折信息的网站。由于美国的deal实在太多，还专门有一些讨论deal的网站，比如slickdeals.net，算是其中非常知名的一个了。对电了产品有兴趣，可以去buy.com; newegg; fry’s这三个网站卖的电了产品比circuit city, bestbuy便宜多了，但是需要记住的是newegg发货非常快，基本上你一下单，马上就发货了，所以 cancel的可能性非常低……此外，Amazon可谓是最全的网上购物网站了，而且没有税，赶上免邮费的时候，还是非常划算的。尤其现在amazon提供给所有在校学生免费一年的prime account(到期了千万别忘了取消哦)。
 - 各大百货公司有自己的官网，都可以上去购物。Nordstrom，Macy’s品牌也有白己的官网，大家可以google一下白己喜欢的品牌，看是否可以在官网上订购。电子产品的Bestbuy也有官网订购Frys(他的实体店距离学校较远，所以大家可以上网买)。
 - Office Depot，Costco，Staples，Newegg，Apple(从学校campus store进的话会有学生折扣)
 - 家具生活用品、电子产品:Target官网、沃尔玛官网
-- 如果是买电脑，也可以到[Dell](www.dell.com)，或[HP](www.hp.com)都可以白己configure(配置)一台适合自己的电脑，他们会寄到你家来。
+- 如果是买电脑，也可以到[Dell](www.dell.com)，或[HP](www.hp.com)都可以白己configure(配置)一台适合自己的电脑，他们会寄到你家来。  
+
+
 ### 4.6 折扣网站
-      在网上购买东西前，本着苍蝇肉也是肉的原则，我们可以做的有以下儿件事
+&emsp;&emsp;在网上购买东西前，本着苍蝇肉也是肉的原则，我们可以做的有以下儿件事
 - Cash back
-	Cash back是指当你通过cash back网站上指定的链接连到你所需要购物的网站后进行购物，此网站会将你所购买的金额的一定比例以佣金的形式付给提供cash back的网站(算是不同于商场导购的另一种销售形式)，而此网站会将它所得到的佣金在一段时问之后通过check或PayPal等形式返还给你以鼓励你继续通过它们的链接购物。有些网站的cash back甚至会高达20%。如果你通过了它们的链接没有得到cash back，你可以在一段时问后给网上给客服发信要求它们查询。
-	常用的cash back网站有以下几个:
+Cash back是指当你通过cash back网站上指定的链接连到你所需要购物的网站后进行购物，此网站会将你所购买的金额的一定比例以佣金的形式付给提供cash back的网站(算是不同于商场导购的另一种销售形式)，而此网站会将它所得到的佣金在一段时问之后通过check或PayPal等形式返还给你以鼓励你继续通过它们的链接购物。有些网站的cash back甚至会高达20%。如果你通过了它们的链接没有得到cash back，你可以在一段时问后给网上给客服发信要求它们查询。
+常用的cash back网站有以下几个:
 	- [Fatwallet](https://www.fatwallet.com/fatwallet-goodbye)基本上是最保险的一个，它的论坛上也会发布一些打折消息
 	- [Ebates](https://www.ebates.com/)有时会有doublecash back  check每三个月发一次，算是pending时问最短的一个了
 	- [UA](https://shopping.mileageplus.com)UA的网站，如果里程即将要过期的话可以通过这个网站购物来维持。请打出6-8周的提前量
@@ -362,35 +385,39 @@ description: 笔记整理
 - 此外，还要了解几个常见单词:美国网上购物经常会听到两个词“deal", "Rebate"和“Coupon" 。
 	- Deal可翻译为“优惠或不错的交易机会”，一般超市特定时问如每周，节假日会推出各种deals。另外，商品制造商也会不时推出白己的促销deal。
 	- Rebate是指“将付款的部分返回”，其可以看作一种deal。网上购物通常见到的是“Mail-in-Rebate"(邮寄方式返钱)。举例来说，一件售价100元，Mail-in- Rebate$30元的商品，通常过程是你首先需要第一次支付100元，在收到商品后(一般一周左右)，将其包装上表示其特征的标签剪下，连同一张填有个人信息的表格寄给制造商或销售商。一般过了一个月或更久后(取决于对方处理速度)，你会收到一张厂家寄给你的支票，本例中即$30。需要提醒的是一般一种商品，一个地址只能用rebate买一个特价。对于两个人share一个住址的要注意题。
-	- Coupon翻译为“优惠券”，例如20 OFF 200，即购物满200，就可抹掉200同Rebate相比，这种Coupon的效果是即时的，不必等待，但优惠额度往往没有Rebate大。但是rebate的缺点大概就是你所付的税款部分是按rebate前计算的，并且rebate并不能保证你一定会得到check(有时会出现寄丢的情况)不如直接减掉清楚。
+	- Coupon翻译为“优惠券”，例如20 OFF 200，即购物满200，就可抹掉200同Rebate相比，这种Coupon的效果是即时的，不必等待，但优惠额度往往没有Rebate大。但是rebate的缺点大概就是你所付的税款部分是按rebate前计算的，并且rebate并不能保证你一定会得到check(有时会出现寄丢的情况)不如直接减掉清楚。  
+
+	
 ### 第五章 学习
 #### 5.1 研究生或博士申请TA的英语考试（Speak Test）
-      UCR要求当TA的研究生必须通过英语口语的测试，类似于TSE，满分是60分。50分以上（包括50）是clear pass，就是完全通过。40分以上（包括40）是conditional pass，意思是你本学期可以当TA，但是同时要上英语课，下次再做TA前还要考试，直至Clear pass为止。40分以下就没有TA的资格了。一般来说中国学生会在第一次考试时conditional pass，需要上英语课。每个系的要求不一样，大多数系会提供第一次上英语课的学费。然后你在一学期结束后可以第二次考试。如果还是没有clear pass，就只好自己交钱再上一个学期的英语口语课了。
-      这个考试的题型和TSE几乎一样，考试时就是坐在电脑前，带上耳机，直接录音。题目有12道，会由老师发到每个人的手中，然后就可以开始答题了。题型不外乎就是地图指路，话题讨论，论点争辩，理由说明，看图说故事，图表描述等。考试的关键是要说清楚，慢一点不要怕，关键不要犯语法错误。侮一道题都有时间限制，但根据以往经验，宁可说慢说清楚，也不要抢时间乱说一通。即使你在规定时间之内没有结束，评分人也可以根据你的部分录音推断出你的水平。其实就我自己来说准备speak test和准备GRE作文差不多，也可以预先有自己的一个模板和套路。比如议论时的开头和结尾，中间要点的连接语，都可以事先准备好，考试时根据题目要求想好论点就往上套。
-      当然，重要的还是得真正花功夫提高自己的口语水平，平时多读多练多积累。Speak Test每年有三次机会考，一般都是在开学前，如果第一个学期不需要当TA的话不一定要一来就考，可以多加练习，争取一次就Clear Pass。考的试费用为50USD每次。预约咨询电话为(951)827-4105，或可在UCR Extension Building里现场预约。
+&emsp;&emsp;UCR要求当TA的研究生必须通过英语口语的测试，类似于TSE，满分是60分。50分以上（包括50）是clear pass，就是完全通过。40分以上（包括40）是conditional pass，意思是你本学期可以当TA，但是同时要上英语课，下次再做TA前还要考试，直至Clear pass为止。40分以下就没有TA的资格了。一般来说中国学生会在第一次考试时conditional pass，需要上英语课。每个系的要求不一样，大多数系会提供第一次上英语课的学费。然后你在一学期结束后可以第二次考试。如果还是没有clear pass，就只好自己交钱再上一个学期的英语口语课了。
+&emsp;&emsp;这个考试的题型和TSE几乎一样，考试时就是坐在电脑前，带上耳机，直接录音。题目有12道，会由老师发到每个人的手中，然后就可以开始答题了。题型不外乎就是地图指路，话题讨论，论点争辩，理由说明，看图说故事，图表描述等。考试的关键是要说清楚，慢一点不要怕，关键不要犯语法错误。侮一道题都有时间限制，但根据以往经验，宁可说慢说清楚，也不要抢时间乱说一通。即使你在规定时间之内没有结束，评分人也可以根据你的部分录音推断出你的水平。其实就我自己来说准备speak test和准备GRE作文差不多，也可以预先有自己的一个模板和套路。比如议论时的开头和结尾，中间要点的连接语，都可以事先准备好，考试时根据题目要求想好论点就往上套。
+&emsp;&emsp;当然，重要的还是得真正花功夫提高自己的口语水平，平时多读多练多积累。Speak Test每年有三次机会考，一般都是在开学前，如果第一个学期不需要当TA的话不一定要一来就考，可以多加练习，争取一次就Clear Pass。考的试费用为50USD每次。预约咨询电话为(951)827-4105，或可在UCR Extension Building里现场预约。
 ### 5.2 选课及课本准备
-       为取得学位，系里会有选课的要求，例如至少上多少个学分的课，有多少学分必须是本系所开研究生难度的课（2打头的课），有些交叉学科的系还会要求有若干学分的外系研究生难度的课，总之大家在选课前要问清要求，安排好每门课上课的时间，因为还要涉及到qualifyingexam，不要到时没有足够的科目可以考而错过了时间。
-       有些系里会把新学期所开课程及用书贴在系主页上，如果没有的话也可以提前给系里小秘发信询问。[www.classes.ucr.edu](#)上会有UCR开的所有课程，以及available的座位数。
-       到了UCR后，可以给老板或系里的GraduateAdvisor发信约时间讨论学习安排。很多课都是有先修课程的，不是自己就可以在growl上选课，如果你之前在国内修过相关课程或者认为自己有能力修课的话，可以向任课老师咨询并取得上课许可，有系里小秘帮你enroll。不过请大家一定要谨慎，如果你有哪门课被老师fail了的话，不但会影响到奖学金还有可能会影响到你的学生身份。要保持你的F-1Visa，每学期至少要有12个学分的课程。
-       如果不确定是否要上的话，可以先audit，试试是否适合自己。一般来说开学后的第二周周五是withdraw课的deadline，在这之后的会留下记录在你的成绩单上。
-       尽管美国的书纸质好一些，美国的教材还是比较贵的。大家可以带一些以前大学上课的教材，一是自己对内容比较熟悉，再有就是中文在开始阶段也易读一些．或者影印好上课使用的课本以及本专业的bible类别的书。如果实在不方便印书的话，也可以选择在网上购买二手书或是internationalversion的教材。
-常用的几个网站：
+&emsp;&emsp;为取得学位，系里会有选课的要求，例如至少上多少个学分的课，有多少学分必须是本系所开研究生难度的课（2打头的课），有些交叉学科的系还会要求有若干学分的外系研究生难度的课，总之大家在选课前要问清要求，安排好每门课上课的时间，因为还要涉及到qualifyingexam，不要到时没有足够的科目可以考而错过了时间。
+&emsp;&emsp;有些系里会把新学期所开课程及用书贴在系主页上，如果没有的话也可以提前给系里小秘发信询问。[www.classes.ucr.edu](www.classes.ucr.edu)上会有UCR开的所有课程，以及available的座位数。
+&emsp;&emsp;到了UCR后，可以给老板或系里的GraduateAdvisor发信约时间讨论学习安排。很多课都是有先修课程的，不是自己就可以在growl上选课，如果你之前在国内修过相关课程或者认为自己有能力修课的话，可以向任课老师咨询并取得上课许可，有系里小秘帮你enroll。不过请大家一定要谨慎，如果你有哪门课被老师fail了的话，不但会影响到奖学金还有可能会影响到你的学生身份。要保持你的F-1Visa，每学期至少要有12个学分的课程。
+&emsp;&emsp;如果不确定是否要上的话，可以先audit，试试是否适合自己。一般来说开学后的第二周周五是withdraw课的deadline，在这之后的会留下记录在你的成绩单上。
+&emsp;&emsp;尽管美国的书纸质好一些，美国的教材还是比较贵的。大家可以带一些以前大学上课的教材，一是自己对内容比较熟悉，再有就是中文在开始阶段也易读一些．或者影印好上课使用的课本以及本专业的bible类别的书。如果实在不方便印书的话，也可以选择在网上购买二手书或是internationalversion的教材。
+&emsp;&emsp;常用的几个网站：
 - [Amazon](amazon.com "Amazon")
 - [Textbooks](%20textbooks.com "Textbooks")
 - [Half](half.com "Half")
 - [Dealoz](deoloz.com "Dealoz")
-- [Cheapesttextbooks ](cheapesttextbooks.com "Cheapesttextbooks")
+- [Cheapesttextbooks ](cheapesttextbooks.com "Cheapesttextbooks")  
+
+
 ### 5.3 qualifying exam
-       为取得学位，无论是masterdegree，还是Ph.D.，都需要通过qualifyingexam，只是评判的标准会不一样。考试分两大部分，一个是writtenexam，一个是oral exam。对于统计系来说，writtenexam又分两部分，一个是masterlevel的exam，一个是Ph.D.level的。如果是Ph.D. Program，需要通过笔试一的Ph.D.Level并通过笔试二。如果是入masterprogram，则只需要通过笔试一的masterlevel。有些系只有一个考试，但依然有masterlevel和Ph.D. level的不同通过标准。如果你要拿到Ph.D．则必须通过Ph.D.Level，每人最多有两次考试的机会。每年会有两次考试的时间，具体时间各系不一样．可询问各系小秘时间及备考资料。
-       Oral exam要在written exam通过后进行，并由老板决定时间。除了老板外还需要几个其他committee member。需要准备的书面材料包括一个proposal，一个slides。
-       作为国际学生，必须在第三学年开始前考完所有qualifyingexam，请大家安排好自己的考试时间。
+&emsp;&emsp;为取得学位，无论是masterdegree，还是Ph.D.，都需要通过qualifyingexam，只是评判的标准会不一样。考试分两大部分，一个是writtenexam，一个是oral exam。对于统计系来说，writtenexam又分两部分，一个是masterlevel的exam，一个是Ph.D.level的。如果是Ph.D. Program，需要通过笔试一的Ph.D.Level并通过笔试二。如果是入masterprogram，则只需要通过笔试一的masterlevel。有些系只有一个考试，但依然有masterlevel和Ph.D. level的不同通过标准。如果你要拿到Ph.D．则必须通过Ph.D.Level，每人最多有两次考试的机会。每年会有两次考试的时间，具体时间各系不一样．可询问各系小秘时间及备考资料。
+&emsp;&emsp;Oral exam要在written exam通过后进行，并由老板决定时间。除了老板外还需要几个其他committee member。需要准备的书面材料包括一个proposal，一个slides。
+&emsp;&emsp;作为国际学生，必须在第三学年开始前考完所有qualifyingexam，请大家安排好自己的考试时间。
 ### 5.4 学校系统
 #### 5.4.1 注册与办理学生卡
-       到UCR之后可以尽快去，sciencelibrary（下图红点）办理学生卡，收费$20，有的系可能系里会出钱，可以找系里秘书确认一下，需要你带上护照和I-20，学生卡是有照片和签名的ID，在没有驾照之前还是非常有用的，比如在有些地方使用信用卡被要求出示ID时就可以用学生卡而不用成天带着护照了（不排除有些地方还是需要驾照或护照级别的证件的）。注册后，在学校里可以用学生卡借书，去gym锻炼，去校医院看病，还可以免费乘坐学校的班车UCRCampus Shuttle还有Riverside市的公交车。
+&emsp;&emsp;到UCR之后可以尽快去，sciencelibrary（下图红点）办理学生卡，收费$20，有的系可能系里会出钱，可以找系里秘书确认一下，需要你带上护照和I-20，学生卡是有照片和签名的ID，在没有驾照之前还是非常有用的，比如在有些地方使用信用卡被要求出示ID时就可以用学生卡而不用成天带着护照了（不排除有些地方还是需要驾照或护照级别的证件的）。注册后，在学校里可以用学生卡借书，去gym锻炼，去校医院看病，还可以免费乘坐学校的班车UCRCampus Shuttle还有Riverside市的公交车。
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1fpq1wq35bgj30dw0dujsq.jpg)
-       研究生的注册过程除了要在系里报道以外，还要到学校研究生院（上图绿点）提交相关材料，到校医院（上图紫点）交体检表：国际学生还要到国际学生中心报到（上图黑点）。
+&emsp;&emsp;研究生的注册过程除了要在系里报道以外，还要到学校研究生院（上图绿点）提交相关材料，到校医院（上图紫点）交体检表：国际学生还要到国际学生中心报到（上图黑点）。
 #### 5.4.2 交费
-       如果你第一学期就开始做TA、RA或有奖学金，要跟系里秘书问清楚是不是还需要交杂费，这部分费用一般是每学期$200左右，如果逾期一般要交$50罚款。交费地点是StudentServices Building（下图红点）。
+&emsp;&emsp;如果你第一学期就开始做TA、RA或有奖学金，要跟系里秘书问清楚是不是还需要交杂费，这部分费用一般是每学期$200左右，如果逾期一般要交$50罚款。交费地点是StudentServices Building（下图红点）。
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fpq1z5dfuhj30dt0dv0tx.jpg)
 #### 5.4.3 学校常用网站
 - 学校主页[UCR Website](www.ucr.edu "UCR Website")，这个相信大家都会熟悉的。
@@ -398,18 +425,20 @@ description: 笔记整理
 - R’Web[R’Web](www.rweb.ucr.edu/ "R'Web")，登录要用86开头的学生ID号和学校offerletter上的Permanent PIN, 可以查到你的成绩和校内账单，设立direct deposit。
 - 学校邮箱[UCR Mail](rmail.ucr.edu/ "UCR Mail")学校的邮箱最好每天都查，所有学校和院系的消息通知都会通过邮件传达，基于GMail，可以下载手机 App。
 - iLearn[iLearn](https://ilearn.ucr.edu/ "iLearn")，登录名和密码与webmail相同，iLearn上可以查到你所选的课程以及TA课程。
-- 学校车辆管理处[UCR Parking](parking.ucr.edu/ "UCR Parking")，可办理停车证（ParkingPermit）及缴纳罚款业务。
+- 学校车辆管理处[UCR Parking](parking.ucr.edu/ "UCR Parking")，可办理停车证（ParkingPermit）及缴纳罚款业务。  
+
+
 #### 5.4.4 办理SSN
 - 什么是SSN(Social SecurityNumber)?
-	SocialSecurity Number (SSN，社会安全号）是主要用于交税、报税目的的身份号码。所有需要向美国政府或州政府纳税的个人都可以申请SSN。美国没有像中国的身份证那样的全国性的身份系统，所以SSN已经成为一个准“身份证”。
+SocialSecurity Number (SSN，社会安全号）是主要用于交税、报税目的的身份号码。所有需要向美国政府或州政府纳税的个人都可以申请SSN。美国没有像中国的身份证那样的全国性的身份系统，所以SSN已经成为一个准“身份证”。
 - 怎么申请SSN?
-	通常你必须有税务责任才可以申请SSN。当你有任何性质的工作，比如TA、RA，系里都会帮你开出证明，让你去及SocialSecurity Administration去办理SSN，才可以给你发薪水。申请的时候，需要先拿系里的证明分别找导师和学校的国际学生中心（IEC）的负责人签字，IEC签字通常需2-3个工作日，完成后再带上护照、ID、I-20、签字生效的系里证明，到SocialSecurity Administration填表，SSA下午四点下班，通常人比较多，建议一大早去。卡片会在两周左右寄到你的地址。
-	离我们最近的Social SecurityAdministration的地址是7880 Mission Grove PkwyS, Riverside CA 92508。
+通常你必须有税务责任才可以申请SSN。当你有任何性质的工作，比如TA、RA，系里都会帮你开出证明，让你去及SocialSecurity Administration去办理SSN，才可以给你发薪水。申请的时候，需要先拿系里的证明分别找导师和学校的国际学生中心（IEC）的负责人签字，IEC签字通常需2-3个工作日，完成后再带上护照、ID、I-20、签字生效的系里证明，到SocialSecurity Administration填表，SSA下午四点下班，通常人比较多，建议一大早去。卡片会在两周左右寄到你的地址。
+离我们最近的Social SecurityAdministration的地址是7880 Mission Grove PkwyS, Riverside CA 92508。
 - 为什么SSN号码要保密？
-	虽然SSN代表的是你的身份，可是正因为SSN只是一个数字，你必须保密才能让你的身份不被别人盗用。SSN是很敏感的个人信息，通常被用来验证你的身份。比如你打电话到电话公司查看帐单，都会被问及你的SSN的后四位数字来验证你的身份。SSN也用来查询你的信用记录．所以你租房和开通电话、电视、网络、信用卡之类的服务的时候，必须要提供完整的SSN。
+虽然SSN代表的是你的身份，可是正因为SSN只是一个数字，你必须保密才能让你的身份不被别人盗用。SSN是很敏感的个人信息，通常被用来验证你的身份。比如你打电话到电话公司查看帐单，都会被问及你的SSN的后四位数字来验证你的身份。SSN也用来查询你的信用记录．所以你租房和开通电话、电视、网络、信用卡之类的服务的时候，必须要提供完整的SSN。
 - 那个卡有用吗？
-	通常你只会用得到那个号（SocialSecurity Number）.但是特别敏感的条件下，比如到银行开通帐户的时候，可能银行会要求你提供那张卡（SocialSecurity Card）。记得不要把卡带在身上。如果遗失，要及时挂失补办，每人每年可以申请补办2次SSN，终身可以拥有10个SSN。
----- 
-       最后祝愿每一个人在UCR学习顺利，秋天见！
+通常你只会用得到那个号（SocialSecurity Number）.但是特别敏感的条件下，比如到银行开通帐户的时候，可能银行会要求你提供那张卡（SocialSecurity Card）。记得不要把卡带在身上。如果遗失，要及时挂失补办，每人每年可以申请补办2次SSN，终身可以拥有10个SSN。  
+
+#### 最后祝愿每一个人在UCR学习顺利，秋天见！
 
 
