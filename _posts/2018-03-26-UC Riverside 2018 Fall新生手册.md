@@ -1,3 +1,11 @@
+---
+layout: post
+title: UC Riverside 2018 Fall新生手册
+date: 2018-03-6
+categories: blog
+tags: [笔记, UCR]
+description: 笔记整理
+---
 # UC Riverside 2018 Fall新生手册
 > 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。 
 > by 董小染 2018.3.26
