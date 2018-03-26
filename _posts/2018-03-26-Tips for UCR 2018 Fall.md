@@ -6,21 +6,30 @@ categories: blog
 tags: [笔记, UCR]
 description: 笔记整理
 ---
-# UC Riverside 2018 Fall新生手册
-> 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。  
-by 董小染 2018.3.26  
---- 
+# UC Riverside 2018 Fall新生手册  
+
+> 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。   
+by 董小染 2018.3.26  
+---   
+
 ## 第一章 Riverside概述
-Riverside地处南加州内陆Inland Empire地区，离洛杉矶约一个小时车程（上下班时间依堵车程度成指数上升），圣地亚哥两小时车程，去内华达州的拉斯维加斯、亚利桑那州的大峡谷均相对方便，为南加州重要的交通枢纽。  
+&emsp;&emsp;Riverside地处南加州内陆Inland Empire地区，离洛杉矶约一个小时车程（上下班时间依堵车程度成指数上升），圣地亚哥两小时车程，去内华达州的拉斯维加斯、亚利桑那州的大峡谷均相对方便，为南加州重要的交通枢纽。  
  
-与加州绝大多数地区一样，Riverisde大体属地中海气候，冬天温和湿润，夏天干燥炎热，出现植物夏季枯死或休眠、冬季变绿的“反季节”有趣现象。此外，由于Inland Empire多低山，阻挡了从海岸而来的湿润空气，处于内陆的Riverside比沿海城市干燥许多，日夜温差也更大。如果你来自一个湿润城市，最好使用加湿机或在屋内常被一盆水防止过度干燥导致流鼻血等。   
-虽然Riverside气候干燥，如果遇上冬季雨水丰富的好年，春天会看到漫山遍野的野花，黄紫相间。并且Riverside由之得名的终年断流的SantaAnna River宽阔的河道中也会水流充沛，观水成为很有趣的事。    
-Riverside拥有大城市的便利及小城镇的友善，曾被列为最具美国木土风味的九个城市之一。作为南加内陆重要的地下水储存地，Riverside在加州发展史上扮演了重要的角色。曾经西班牙殖民时期修建的二十余座重要教堂之一就建在Riverside。并且成为今天的Mission Inn，曾被多位美国总统造访，这些历代总统画像至今仍被陈列在开放参观的大厅中。 MissionInn附近是Riverside最具特色的一带，其周围是众多免费或部分项目收费的博物馆，包括UCR摄影博物馆。比如最近RiversideMetropolitan Museum就有免费的中秋节展览和活动。节日期间，在其附近的街道上还常有颇具各国风情的节目，如墨西哥传统舞蹈。更多具体信息可以从实时更新的City of Riverside的主页上找到。  
-Mission Inn附近是Riverside最具特色的一带，其周围是众多免费或部分项目收费的博物馆，包括UCR摄影博物馆。比如最近RiversideMetropolitan Museum就有免费的中秋节展览和活动。节日期间，在其附近的街道上还常有颇具各国风情的节目，如墨西哥传统舞蹈。更多具体信息可以从实时更新的City of Riverside的主页上找到。  
-此外，何周六downtown的Farmer's Market是便宜买到新鲜绿色蔬果的好地方，如有闲情逸致，古老的Victoria Avenue及其社区也是开车闲逛的不错去处。  
-最后，不得不提的是作为UCR人的潜规则，学校东而Box Springs Mountains上黄漆刷成的大C是一定要去报道的。爬上山大约要一小时，上山看Riverside黄昏是不错的选择，但建议不要单独行动，因为除了人为危险以外，山豹和小狼也有可能在极其偶然的情况下对单个体弱的人造成危险。UC Riverside占地1200英亩，包括在Google Map上可以看到的大片漂亮桔园和种植了加州木地物种的植物园。植物园是野餐和散布的好地方，桔园则印证了UCR多年从事柑橘研究的优良传统。桔园的桔子品种丰富，除了为学校创收以外也会对游客开放免费采摘，同时需要一提的是，Aberdeen Dr上的是观赏桔，不能吃。  
-学校各系以及60号高速公路另一边的Extension Center可以在校园地图上找到，在此仅简单介绍图书馆和餐厅、邮寄室。Orbach Science Library是理科图书馆，办学生卡的地方就在其地下一层；Rivera Library是文科图书馆，可以借电影看，提供海报打印等特殊服务（Music Library当然是借音乐的）。学校的餐厅主要集中在Highlander Union Building。  
-下图为UCR Campus的地图，来源于UCR官网。  
+&emsp;&emsp;与加州绝大多数地区一样，Riverisde大体属地中海气候，冬天温和湿润，夏天干燥炎热，出现植物夏季枯死或休眠、冬季变绿的“反季节”有趣现象。此外，由于Inland Empire多低山，阻挡了从海岸而来的湿润空气，处于内陆的Riverside比沿海城市干燥许多，日夜温差也更大。如果你来自一个湿润城市，最好使用加湿机或在屋内常被一盆水防止过度干燥导致流鼻血等。   
+
+&emsp;&emsp;虽然Riverside气候干燥，如果遇上冬季雨水丰富的好年，春天会看到漫山遍野的野花，黄紫相间。并且Riverside由之得名的终年断流的SantaAnna River宽阔的河道中也会水流充沛，观水成为很有趣的事。    
+
+&emsp;&emsp;Riverside拥有大城市的便利及小城镇的友善，曾被列为最具美国木土风味的九个城市之一。作为南加内陆重要的地下水储存地，Riverside在加州发展史上扮演了重要的角色。曾经西班牙殖民时期修建的二十余座重要教堂之一就建在Riverside。并且成为今天的Mission Inn，曾被多位美国总统造访，这些历代总统画像至今仍被陈列在开放参观的大厅中。 MissionInn附近是Riverside最具特色的一带，其周围是众多免费或部分项目收费的博物馆，包括UCR摄影博物馆。比如最近RiversideMetropolitan Museum就有免费的中秋节展览和活动。节日期间，在其附近的街道上还常有颇具各国风情的节目，如墨西哥传统舞蹈。更多具体信息可以从实时更新的City of Riverside的主页上找到。  
+
+&emsp;&emsp;Mission Inn附近是Riverside最具特色的一带，其周围是众多免费或部分项目收费的博物馆，包括UCR摄影博物馆。比如最近RiversideMetropolitan Museum就有免费的中秋节展览和活动。节日期间，在其附近的街道上还常有颇具各国风情的节目，如墨西哥传统舞蹈。更多具体信息可以从实时更新的City of Riverside的主页上找到。  
+
+&emsp;&emsp;此外，何周六downtown的Farmer's Market是便宜买到新鲜绿色蔬果的好地方，如有闲情逸致，古老的Victoria Avenue及其社区也是开车闲逛的不错去处。  
+
+&emsp;&emsp;最后，不得不提的是作为UCR人的潜规则，学校东而Box Springs Mountains上黄漆刷成的大C是一定要去报道的。爬上山大约要一小时，上山看Riverside黄昏是不错的选择，但建议不要单独行动，因为除了人为危险以外，山豹和小狼也有可能在极其偶然的情况下对单个体弱的人造成危险。UC Riverside占地1200英亩，包括在Google Map上可以看到的大片漂亮桔园和种植了加州木地物种的植物园。植物园是野餐和散布的好地方，桔园则印证了UCR多年从事柑橘研究的优良传统。桔园的桔子品种丰富，除了为学校创收以外也会对游客开放免费采摘，同时需要一提的是，Aberdeen Dr上的是观赏桔，不能吃。  
+
+&emsp;&emsp;学校各系以及60号高速公路另一边的Extension Center可以在校园地图上找到，在此仅简单介绍图书馆和餐厅、邮寄室。Orbach Science Library是理科图书馆，办学生卡的地方就在其地下一层；Rivera Library是文科图书馆，可以借电影看，提供海报打印等特殊服务（Music Library当然是借音乐的）。学校的餐厅主要集中在Highlander Union Building。  
+
+&emsp;&emsp;下图为UCR Campus的地图，来源于UCR官网。  
 ![UCR Campus Map](https://ws3.sinaimg.cn/large/006tNc79ly1fpq4d6lr43j31kw17zhdu.jpg "UCR Campus Map")
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1fpq4fgv6uhj31kw17zhai.jpg "UCR Campus Map Legend")
 ## 第二章  行前准备
