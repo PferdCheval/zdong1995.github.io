@@ -10,7 +10,7 @@ description: 笔记整理
 
 > 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。关注加州大学河滨分校中国学生学者联谊会UCRCSSA**UCRCSSA**获取更多生活信息，祝大家在UCR生活愉快~   
 
-By 董小染 2018.3.26   
+>By 董小染 2018.3.26   
 
 
 
@@ -420,11 +420,11 @@ Cash back是指当你通过cash back网站上指定的链接连到你所需要�
 ### 5.4 学校系统
 #### 5.4.1 注册与办理学生卡
 &emsp;&emsp;到UCR之后可以尽快去，sciencelibrary（下图红点）办理学生卡，收费$20，有的系可能系里会出钱，可以找系里秘书确认一下，需要你带上护照和I-20，学生卡是有照片和签名的ID，在没有驾照之前还是非常有用的，比如在有些地方使用信用卡被要求出示ID时就可以用学生卡而不用成天带着护照了（不排除有些地方还是需要驾照或护照级别的证件的）。注册后，在学校里可以用学生卡借书，去gym锻炼，去校医院看病，还可以免费乘坐学校的班车UCRCampus Shuttle还有Riverside市的公交车。  
-![Campus map](https://ws1.sinaimg.cn/large/006tNc79ly1fpq1wq35bgj30dw0dujsq.jpg)
+&emsp;&emsp;![Campus map](https://ws1.sinaimg.cn/large/006tNc79ly1fpq1wq35bgj30dw0dujsq.jpg)
 &emsp;&emsp;研究生的注册过程除了要在系里报道以外，还要到学校研究生院（上图绿点）提交相关材料，到校医院（上图紫点）交体检表：国际学生还要到国际学生中心报到（上图黑点）。
 #### 5.4.2 交费
 &emsp;&emsp;如果你第一学期就开始做TA、RA或有奖学金，要跟系里秘书问清楚是不是还需要交杂费，这部分费用一般是每学期$200左右，如果逾期一般要交$50罚款。交费地点是StudentServices Building（下图红点）。  
-![Campus map](https://ws3.sinaimg.cn/large/006tNc79gy1fpq1z5dfuhj30dt0dv0tx.jpg)
+&emsp;&emsp;![Campus map](https://ws3.sinaimg.cn/large/006tNc79gy1fpq1z5dfuhj30dt0dv0tx.jpg)
 #### 5.4.3 学校常用网站
 - 学校主页[UCR Website](www.ucr.edu "UCR Website")，这个相信大家都会熟悉的。
 - 学校图书馆[UCR Library](https://library.ucr.edu/ "UCR Library")，可以检索相关资料，办理书籍续借．
@@ -446,6 +446,6 @@ SocialSecurity Number (SSN，社会安全号）是主要用于交税、报税目
 通常你只会用得到那个号（SocialSecurity Number）.但是特别敏感的条件下，比如到银行开通帐户的时候，可能银行会要求你提供那张卡（SocialSecurity Card）。记得不要把卡带在身上。如果遗失，要及时挂失补办，每人每年可以申请补办2次SSN，终身可以拥有10个SSN。  
 
 #### &emsp;&emsp;最后祝愿每一个人在UCR学习顺利，秋天见！
-更多生活咨讯欢迎关注加州大学河滨分校中国学生学者联谊会UCRCSSA的官方微信公众号。
-![公众号](https://ws2.sinaimg.cn/large/006tNc79ly1fpscokbzxaj30by0byq4b.jpg)
+&emsp;&emsp;更多生活咨讯欢迎关注加州大学河滨分校中国学生学者联谊会UCRCSSA的官方微信公众号。
+&emsp;&emsp;![公众号](https://ws2.sinaimg.cn/large/006tNc79ly1fpscokbzxaj30by0byq4b.jpg)
 
