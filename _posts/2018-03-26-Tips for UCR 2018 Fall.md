@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Tips for UCR 2018 Fall
-date: 2018-03-6
+date: 2018-03-26
 categories: blog
 tags: [笔记, UCR]
 description: 笔记整理
 ---
 # UC Riverside 2018 Fall新生手册  
 
-> 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。  
+> 本文整理排版自UCR-CSSA论坛的新生手册部分[UCRCSSA论坛](http://cssa.ucr.edu/bbs/forum-63-1.html)，以及一些自己的信息补充整理和地图制作，删去了一些停止营业的店铺及过于久远不再适用的信息。在论坛浏览过程中看到很多前人总结的非常详尽的在UCR生活的有用信息，在此整理排版以方便新入学的同学浏览，感谢论坛里前人们的帮助。希望能给即将赴美的大家带来些许帮助。关注公众号**UCRCSSA**和新浪微博**CSSAUCR**可以获取更多生活信息，祝大家在UCR生活愉快~   
+> By 董小染 2018.3.26   
 
-  
+
 
 ## 第一章 Riverside概述
 &emsp;&emsp;Riverside地处南加州内陆Inland Empire地区，离洛杉矶约一个小时车程（上下班时间依堵车程度成指数上升），圣地亚哥两小时车程，去内华达州的拉斯维加斯、亚利桑那州的大峡谷均相对方便，为南加州重要的交通枢纽。   
@@ -443,5 +444,5 @@ SocialSecurity Number (SSN，社会安全号）是主要用于交税、报税目
 通常你只会用得到那个号（SocialSecurity Number）.但是特别敏感的条件下，比如到银行开通帐户的时候，可能银行会要求你提供那张卡（SocialSecurity Card）。记得不要把卡带在身上。如果遗失，要及时挂失补办，每人每年可以申请补办2次SSN，终身可以拥有10个SSN。  
 
 #### &emsp;&emsp;最后祝愿每一个人在UCR学习顺利，秋天见！
-
+![公众号](https://ws2.sinaimg.cn/large/006tNc79ly1fpscokbzxaj30by0byq4b.jpg=600*800)
 
